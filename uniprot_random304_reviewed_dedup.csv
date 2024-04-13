@@ -1,0 +1,305 @@
+From,Entry,Reviewed,Entry Name,Protein names,Gene Names,Organism,Length
+PSCA,O43653,reviewed,PSCA_HUMAN,Prostate stem cell antigen,PSCA UNQ206/PRO232,Homo sapiens (Human),114
+CNIH4,Q9P003,reviewed,CNIH4_HUMAN,Protein cornichon homolog 4 (CNIH-4) (Cornichon family AMPA receptor auxiliary protein 4),CNIH4 HSPC163,Homo sapiens (Human),139
+KHDRBS1,Q07666,reviewed,KHDR1_HUMAN,"KH domain-containing, RNA-binding, signal transduction-associated protein 1 (GAP-associated tyrosine phosphoprotein p62) (Src-associated in mitosis 68 kDa protein) (Sam68) (p21 Ras GTPase-activating protein-associated p62) (p68)",KHDRBS1 SAM68,Homo sapiens (Human),443
+GDPD4,Q6W3E5,reviewed,GDPD4_HUMAN,Glycerophosphodiester phosphodiesterase domain-containing protein 4 (EC 3.1.-.-) (Glycerophosphodiester phosphodiesterase 6) (UgpQ),GDPD4 GDE6 UGPQ,Homo sapiens (Human),623
+ZNF705D,P0CH99,reviewed,Z705D_HUMAN,Zinc finger protein 705D,ZNF705D,Homo sapiens (Human),300
+ELOVL6,Q9H5J4,reviewed,ELOV6_HUMAN,Elongation of very long chain fatty acids protein 6 (EC 2.3.1.199) (3-keto acyl-CoA synthase ELOVL6) (ELOVL fatty acid elongase 6) (ELOVL FA elongase 6) (Fatty acid elongase 2) (hELO2) (Fatty acyl-CoA elongase) (Long-chain fatty-acyl elongase) (Very long chain 3-ketoacyl-CoA synthase 6) (Very long chain 3-oxoacyl-CoA synthase 6),ELOVL6 FACE LCE,Homo sapiens (Human),265
+CYB561D1,Q8N8Q1,reviewed,C56D1_HUMAN,Probable transmembrane reductase CYB561D1 (EC 7.2.1.3) (Cytochrome b561 domain-containing protein 1),CYB561D1,Homo sapiens (Human),229
+CSN1S1,P47710,reviewed,CASA1_HUMAN,Alpha-S1-casein [Cleaved into: Casoxin-D],CSN1S1 CASA CSN1,Homo sapiens (Human),185
+ANKRD30A,Q9BXX3,reviewed,AN30A_HUMAN,Ankyrin repeat domain-containing protein 30A (Serologically defined breast cancer antigen NY-BR-1),ANKRD30A,Homo sapiens (Human),1397
+DHRS4,Q9BTZ2,reviewed,DHRS4_HUMAN,Dehydrogenase/reductase SDR family member 4 (EC 1.1.1.184) (NADPH-dependent carbonyl reductase) (CR) (NADPH-dependent retinol dehydrogenase/reductase) (NRDR) (humNRDR) (Peroxisomal short-chain alcohol dehydrogenase) (PSCD) (SCAD-SRL) (Short chain dehydrogenase/reductase family 25C member 2) (Protein SDR25C2) (Short-chain dehydrogenase/reductase family member 4),DHRS4 SDR25C2 UNQ851/PRO1800,Homo sapiens (Human),278
+CEP76,Q8TAP6,reviewed,CEP76_HUMAN,Centrosomal protein of 76 kDa (Cep76),CEP76 C18orf9,Homo sapiens (Human),659
+MYC,P01106,reviewed,MYC_HUMAN,Myc proto-oncogene protein (Class E basic helix-loop-helix protein 39) (bHLHe39) (Proto-oncogene c-Myc) (Transcription factor p64),MYC BHLHE39,Homo sapiens (Human),439
+LMO7,Q8WWI1,reviewed,LMO7_HUMAN,LIM domain only protein 7 (LMO-7) (F-box only protein 20) (LOMP),LMO7 FBX20 FBXO20 KIAA0858,Homo sapiens (Human),1683
+PBLD,P30039,reviewed,PBLD_HUMAN,Phenazine biosynthesis-like domain-containing protein (EC 5.1.-.-) (MAWD-binding protein) (MAWDBP) (Unknown protein 32 from 2D-page of liver tissue),PBLD MAWBP,Homo sapiens (Human),288
+GPRC5A,Q8NFJ5,reviewed,RAI3_HUMAN,Retinoic acid-induced protein 3 (G-protein coupled receptor family C group 5 member A) (Phorbol ester induced gene 1) (PEIG-1) (Retinoic acid-induced gene 1 protein) (RAIG-1),GPRC5A GPCR5A RAI3 RAIG1,Homo sapiens (Human),357
+CCDC85A,Q96PX6,reviewed,CC85A_HUMAN,Coiled-coil domain-containing protein 85A,CCDC85A KIAA1912,Homo sapiens (Human),553
+HMCN2,Q8NDA2,reviewed,HMCN2_HUMAN,Hemicentin-2,HMCN2,Homo sapiens (Human),5059
+PTBP3,O95758,reviewed,PTBP3_HUMAN,Polypyrimidine tract-binding protein 3 (Regulator of differentiation 1) (Rod1),PTBP3 ROD1,Homo sapiens (Human),552
+TMEM218,A2RU14,reviewed,TM218_HUMAN,Transmembrane protein 218,TMEM218,Homo sapiens (Human),115
+FBXL6,Q8N531,reviewed,FBXL6_HUMAN,F-box/LRR-repeat protein 6 (F-box and leucine-rich repeat protein 6) (F-box protein FBL6) (FBL6A),FBXL6 FBL6,Homo sapiens (Human),539
+DGKG,P49619,reviewed,DGKG_HUMAN,Diacylglycerol kinase gamma (DAG kinase gamma) (EC 2.7.1.107) (Diglyceride kinase gamma) (DGK-gamma),DGKG DAGK3,Homo sapiens (Human),791
+ORAI1,Q96D31,reviewed,CRCM1_HUMAN,Calcium release-activated calcium channel protein 1 (Protein orai-1) (Transmembrane protein 142A),ORAI1 CRACM1 TMEM142A,Homo sapiens (Human),301
+BTAF1,O14981,reviewed,BTAF1_HUMAN,TATA-binding protein-associated factor 172 (EC 3.6.4.-) (ATP-dependent helicase BTAF1) (B-TFIID transcription factor-associated 170 kDa subunit) (TAF(II)170) (TBP-associated factor 172) (TAF-172),BTAF1 TAF172,Homo sapiens (Human),1849
+SALL2,Q9Y467,reviewed,SALL2_HUMAN,Sal-like protein 2 (Zinc finger protein 795) (Zinc finger protein SALL2) (Zinc finger protein Spalt-2) (Sal-2) (hSal2),SALL2 KIAA0360 SAL2 ZNF795,Homo sapiens (Human),1007
+LYST,Q99698,reviewed,LYST_HUMAN,Lysosomal-trafficking regulator (Beige homolog),LYST CHS CHS1,Homo sapiens (Human),3801
+PTGIR,P43119,reviewed,PI2R_HUMAN,Prostacyclin receptor (Prostaglandin I2 receptor) (PGI receptor) (PGI2 receptor) (Prostanoid IP receptor),PTGIR PRIPR,Homo sapiens (Human),386
+PERCC1,A0A1W2PR82,reviewed,PERC1_HUMAN,Protein PERCC1 (Proline and glutamage-rich protein with a coiled coil domain),PERCC1,Homo sapiens (Human),267
+TSHZ1,Q6ZSZ6,reviewed,TSH1_HUMAN,Teashirt homolog 1 (Antigen NY-CO-33) (Serologically defined colon cancer antigen 33),TSHZ1 SDCCAG33 TSH1,Homo sapiens (Human),1077
+SLC38A7,Q9NVC3,reviewed,S38A7_HUMAN,Sodium-coupled neutral amino acid transporter 7 (Solute carrier family 38 member 7),SLC38A7 SNAT7,Homo sapiens (Human),462
+LGALS2,P05162,reviewed,LEG2_HUMAN,Galectin-2 (Gal-2) (Beta-galactoside-binding lectin L-14-II) (HL14) (Lactose-binding lectin 2) (S-Lac lectin 2),LGALS2,Homo sapiens (Human),132
+KCNH5,Q8NCM2,reviewed,KCNH5_HUMAN,Potassium voltage-gated channel subfamily H member 5 (Ether-a-go-go potassium channel 2) (hEAG2) (Voltage-gated potassium channel subunit Kv10.2),KCNH5 EAG2,Homo sapiens (Human),988
+IGLV3-1,P01715,reviewed,LV301_HUMAN,Immunoglobulin lambda variable 3-1 (Ig lambda chain V-IV region Bau) (Ig lambda chain V-IV region MOL) (Ig lambda chain V-IV region X),IGLV3-1,Homo sapiens (Human),115
+FAM166C,A6NJV1,reviewed,F166C_HUMAN,Protein FAM166C (Family with sequence similarity 166 member C),FAM166C C2orf70,Homo sapiens (Human),201
+SLC28A1,O00337,reviewed,S28A1_HUMAN,Sodium/nucleoside cotransporter 1 (Concentrative nucleoside transporter 1) (CNT 1) (hCNT1) (Na(+)/nucleoside cotransporter 1) (Sodium-coupled nucleoside transporter 1) (Solute carrier family 28 member 1),SLC28A1 CNT1,Homo sapiens (Human),649
+GID8,Q9NWU2,reviewed,GID8_HUMAN,Glucose-induced degradation protein 8 homolog (Two hybrid-associated protein 1 with RanBPM) (Twa1),GID8 C20orf11 TWA1,Homo sapiens (Human),228
+ALOX12,P18054,reviewed,LOX12_HUMAN,Polyunsaturated fatty acid lipoxygenase ALOX12 (EC 1.13.11.-) (Arachidonate (12S)-lipoxygenase) (12S-LOX) (12S-lipoxygenase) (EC 1.13.11.31) (Arachidonate (15S)-lipoxygenase) (EC 1.13.11.33) (Linoleate (13S)-lipoxygenase) (Lipoxin synthase 12-LO) (EC 3.3.2.-) (Platelet-type lipoxygenase 12),ALOX12 12LO LOG12,Homo sapiens (Human),663
+FAM89A,Q96GI7,reviewed,FA89A_HUMAN,Protein FAM89A,FAM89A C1orf153,Homo sapiens (Human),184
+KCNAB1,Q14722,reviewed,KCAB1_HUMAN,Voltage-gated potassium channel subunit beta-1 (EC 1.1.1.-) (K(+) channel subunit beta-1) (Kv-beta-1),KCNAB1 KCNA1B,Homo sapiens (Human),419
+OR4K2,Q8NGD2,reviewed,OR4K2_HUMAN,Olfactory receptor 4K2 (Olfactory receptor OR14-15),OR4K2,Homo sapiens (Human),314
+RNF220,Q5VTB9,reviewed,RN220_HUMAN,E3 ubiquitin-protein ligase RNF220 (EC 2.3.2.27) (RING finger protein 220) (RING-type E3 ubiquitin transferase RNF220),RNF220 C1orf164,Homo sapiens (Human),566
+GSN,P06396,reviewed,GELS_HUMAN,Gelsolin (AGEL) (Actin-depolymerizing factor) (ADF) (Brevin),GSN,Homo sapiens (Human),782
+C2orf92,A0A1B0GVN3,reviewed,CB092_HUMAN,Uncharacterized protein C2orf92 (Long intergenic non-protein coding RNA 1125),C2orf92 LINC01125,Homo sapiens (Human),265
+IRF6,O14896,reviewed,IRF6_HUMAN,Interferon regulatory factor 6 (IRF-6),IRF6,Homo sapiens (Human),467
+TRAV26-1,A0A087WT03,reviewed,TVAZ1_HUMAN,T cell receptor alpha variable 26-1,TRAV26-1,Homo sapiens (Human),109
+TUBB1,Q9H4B7,reviewed,TBB1_HUMAN,Tubulin beta-1 chain,TUBB1,Homo sapiens (Human),451
+GALNTL5,Q7Z4T8,reviewed,GLTL5_HUMAN,Inactive polypeptide N-acetylgalactosaminyltransferase-like protein 5 (Polypeptide GalNAc transferase 15) (GalNAc-T15) (pp-GaNTase 15) (Protein-UDP acetylgalactosaminyltransferase 15) (UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 15),GALNTL5 GALNT15,Homo sapiens (Human),443
+LSG1,Q9H089,reviewed,LSG1_HUMAN,Large subunit GTPase 1 homolog (hLsg1) (EC 3.6.1.-),LSG1,Homo sapiens (Human),658
+CREB3L1,Q96BA8,reviewed,CR3L1_HUMAN,Cyclic AMP-responsive element-binding protein 3-like protein 1 (cAMP-responsive element-binding protein 3-like protein 1) (Old astrocyte specifically-induced substance) (OASIS) [Cleaved into: Processed cyclic AMP-responsive element-binding protein 3-like protein 1],CREB3L1 OASIS PSEC0238,Homo sapiens (Human),519
+C11orf1,Q9H5F2,reviewed,CK001_HUMAN,UPF0686 protein C11orf1,C11orf1,Homo sapiens (Human),150
+SCD,O00767,reviewed,SCD_HUMAN,Stearoyl-CoA desaturase (hSCD1) (EC 1.14.19.1) (Acyl-CoA desaturase) (Delta(9)-desaturase) (Delta-9 desaturase) (Fatty acid desaturase),SCD FADS5 SCD1 SCDOS,Homo sapiens (Human),359
+IFT27,Q9BW83,reviewed,IFT27_HUMAN,Intraflagellar transport protein 27 homolog (Putative GTP-binding protein RAY-like) (Rab-like protein 4),IFT27 RABL4 RAYL,Homo sapiens (Human),186
+ALS2CL,Q60I27,reviewed,AL2CL_HUMAN,ALS2 C-terminal-like protein,ALS2CL,Homo sapiens (Human),953
+HJURP,Q8NCD3,reviewed,HJURP_HUMAN,Holliday junction recognition protein (14-3-3-associated AKT substrate) (Fetal liver-expressing gene 1 protein) (Up-regulated in lung cancer 9),HJURP FAKTS FLEG1 URLC9,Homo sapiens (Human),748
+MIP,P30301,reviewed,MIP_HUMAN,Lens fiber major intrinsic protein (Aquaporin-0) (MIP26) (MP26),MIP AQP0,Homo sapiens (Human),263
+TFPT,P0C1Z6,reviewed,TFPT_HUMAN,TCF3 fusion partner (INO80 complex subunit F) (Protein FB1),TFPT INO80F,Homo sapiens (Human),253
+KLHDC7B,Q96G42,reviewed,KLD7B_HUMAN,Kelch domain-containing protein 7B,KLHDC7B,Homo sapiens (Human),594
+EXTL1,Q92935,reviewed,EXTL1_HUMAN,Exostosin-like 1 (EC 2.4.1.224) (Exostosin-L) (Glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase) (Multiple exostosis-like protein),EXTL1 EXTL,Homo sapiens (Human),676
+OR2J3,O76001,reviewed,OR2J3_HUMAN,Olfactory receptor 2J3 (Hs6M1-3) (Olfactory receptor OR6-16) (OR6-6) (Olfactory receptor 6-6),OR2J3,Homo sapiens (Human),311
+RASD1,Q9Y272,reviewed,RASD1_HUMAN,Dexamethasone-induced Ras-related protein 1 (Activator of G-protein signaling 1),RASD1 AGS1 DEXRAS1,Homo sapiens (Human),281
+KRTAP5-7,Q6L8G8,reviewed,KRA57_HUMAN,Keratin-associated protein 5-7 (Keratin-associated protein 5-3) (Keratin-associated protein 5.3) (Keratin-associated protein 5.7) (Ultrahigh sulfur keratin-associated protein 5.7),KRTAP5-7 KAP5-7 KAP5.3 KRTAP5.3 KRTAP5.7,Homo sapiens (Human),165
+RHOT2,Q8IXI1,reviewed,MIRO2_HUMAN,Mitochondrial Rho GTPase 2 (MIRO-2) (hMiro-2) (EC 3.6.5.-) (Ras homolog gene family member T2),RHOT2 ARHT2 C16orf39,Homo sapiens (Human),618
+NRXN2,P58401,reviewed,NRX2B_HUMAN,Neurexin-2-beta (Neurexin II-beta),NRXN2,Homo sapiens (Human),666
+KLHL4,Q9C0H6,reviewed,KLHL4_HUMAN,Kelch-like protein 4,KLHL4 KIAA1687,Homo sapiens (Human),718
+HSD11B1,P28845,reviewed,DHI1_HUMAN,11-beta-hydroxysteroid dehydrogenase 1 (11-DH) (11-beta-HSD1) (EC 1.1.1.146) (7-oxosteroid reductase) (EC 1.1.1.201) (Corticosteroid 11-beta-dehydrogenase isozyme 1) (Short chain dehydrogenase/reductase family 26C member 1),HSD11B1 HSD11 HSD11L SDR26C1,Homo sapiens (Human),292
+TMPRSS9,Q7Z410,reviewed,TMPS9_HUMAN,Transmembrane protease serine 9 (EC 3.4.21.-) (Polyserase-I) (Polyserine protease 1) (Polyserase-1) [Cleaved into: Serase-1; Serase-2; Serase-3],TMPRSS9,Homo sapiens (Human),1059
+HSH2D,Q96JZ2,reviewed,HSH2D_HUMAN,Hematopoietic SH2 domain-containing protein (Hematopoietic SH2 protein) (Adaptor in lymphocytes of unknown function X),HSH2D ALX,Homo sapiens (Human),352
+ITGA2B,P08514,reviewed,ITA2B_HUMAN,"Integrin alpha-IIb (GPalpha IIb) (GPIIb) (Platelet membrane glycoprotein IIb) (CD antigen CD41) [Cleaved into: Integrin alpha-IIb heavy chain; Integrin alpha-IIb light chain, form 1; Integrin alpha-IIb light chain, form 2]",ITGA2B GP2B ITGAB,Homo sapiens (Human),1039
+IGHV2-70,P01814,reviewed,HV270_HUMAN,Immunoglobulin heavy variable 2-70 (Ig heavy chain V-II region COR) (Ig heavy chain V-II region DAW) (Ig heavy chain V-II region OU) (Ig heavy chain V-II region SESS),IGHV2-70,Homo sapiens (Human),119
+RAB11FIP4,Q86YS3,reviewed,RFIP4_HUMAN,Rab11 family-interacting protein 4 (FIP4-Rab11) (Rab11-FIP4) (Arfophilin-2),RAB11FIP4 ARFO2 KIAA1821,Homo sapiens (Human),637
+ZEB2,O60315,reviewed,ZEB2_HUMAN,Zinc finger E-box-binding homeobox 2 (Smad-interacting protein 1) (SMADIP1) (Zinc finger homeobox protein 1b),ZEB2 KIAA0569 SIP1 ZFHX1B ZFX1B HRIHFB2411,Homo sapiens (Human),1214
+LMAN2,Q12907,reviewed,LMAN2_HUMAN,Vesicular integral-membrane protein VIP36 (Glycoprotein GP36b) (Lectin mannose-binding 2) (Vesicular integral-membrane protein 36) (VIP36),LMAN2 C5orf8,Homo sapiens (Human),356
+TRAV1-2,A0A0B4J238,reviewed,TVA12_HUMAN,T cell receptor alpha variable 1-2,TRAV1-2,Homo sapiens (Human),106
+PPP2R3B,Q9Y5P8,reviewed,P2R3B_HUMAN,Serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta (PP2A subunit B isoform PR48) (Protein phosphatase 2A 48 kDa regulatory subunit),PPP2R3B PPP2R3L,Homo sapiens (Human),575
+TRDMT1,O14717,reviewed,TRDMT_HUMAN,tRNA (cytosine(38)-C(5))-methyltransferase (EC 2.1.1.204) (DNA (cytosine-5)-methyltransferase-like protein 2) (Dnmt2) (DNA methyltransferase homolog HsaIIP) (DNA MTase homolog HsaIIP) (M.HsaIIP) (PuMet),TRDMT1 DNMT2,Homo sapiens (Human),391
+DGCR2,P98153,reviewed,IDD_HUMAN,Integral membrane protein DGCR2/IDD,DGCR2 IDD KIAA0163,Homo sapiens (Human),550
+MTFP1,Q9UDX5,reviewed,MTFP1_HUMAN,Mitochondrial fission process protein 1 (Mitochondrial 18 kDa protein) (MTP18),MTFP1 MTP18 HSPC242 My022,Homo sapiens (Human),166
+PBX4,Q9BYU1,reviewed,PBX4_HUMAN,Pre-B-cell leukemia transcription factor 4 (Homeobox protein PBX4),PBX4,Homo sapiens (Human),374
+GTSE1,Q9NYZ3,reviewed,GTSE1_HUMAN,G2 and S phase-expressed protein 1 (GTSE-1) (Protein B99 homolog),GTSE1,Homo sapiens (Human),720
+BCAR3,O75815,reviewed,BCAR3_HUMAN,Breast cancer anti-estrogen resistance protein 3 (Novel SH2-containing protein 2) (SH2 domain-containing protein 3B),BCAR3 NSP2 SH2D3B UNQ271/PRO308,Homo sapiens (Human),825
+NR2C2,P49116,reviewed,NR2C2_HUMAN,Nuclear receptor subfamily 2 group C member 2 (Orphan nuclear receptor TAK1) (Orphan nuclear receptor TR4) (Testicular receptor 4),NR2C2 TAK1 TR4,Homo sapiens (Human),596
+CD47,Q08722,reviewed,CD47_HUMAN,Leukocyte surface antigen CD47 (Antigenic surface determinant protein OA3) (Integrin-associated protein) (IAP) (Protein MER6) (CD antigen CD47),CD47 MER6,Homo sapiens (Human),323
+BICC1,Q9H694,reviewed,BICC1_HUMAN,Protein bicaudal C homolog 1 (Bic-C),BICC1,Homo sapiens (Human),974
+DLD,P09622,reviewed,DLDH_HUMAN,"Dihydrolipoyl dehydrogenase, mitochondrial (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (Glycine cleavage system L protein)",DLD GCSL LAD PHE3,Homo sapiens (Human),509
+ADGRL2,O95490,reviewed,AGRL2_HUMAN,Adhesion G protein-coupled receptor L2 (Calcium-independent alpha-latrotoxin receptor 2) (CIRL-2) (Latrophilin homolog 1) (Latrophilin-2) (Lectomedin-1),ADGRL2 KIAA0786 LEC1 LPHH1 LPHN2,Homo sapiens (Human),1459
+CFAP52,Q8N1V2,reviewed,CFA52_HUMAN,Cilia- and flagella-associated protein 52 (WD repeat-containing protein 16) (WD40-repeat protein up-regulated in HCC),CFAP52 WDR16 WDRPUH,Homo sapiens (Human),620
+BECN2,A8MW95,reviewed,BECN2_HUMAN,Beclin-2 (Beclin-1 autophagy-related pseudogene 1) (Beclin-1-like protein 1),BECN2 BECN1L1 BECN1P1,Homo sapiens (Human),431
+ERFE,Q4G0M1,reviewed,ERFE_HUMAN,Erythroferrone (Complement C1q tumor necrosis factor-related protein 15) (Myonectin),ERFE C1QTNF15 CTRP15 FAM132B,Homo sapiens (Human),354
+PPP1R14D,Q9NXH3,reviewed,PP14D_HUMAN,Protein phosphatase 1 regulatory subunit 14D (Gastrointestinal and brain-specific PP1-inhibitory protein 1) (GBPI-1),PPP1R14D GBPI,Homo sapiens (Human),145
+DIRAS1,O95057,reviewed,DIRA1_HUMAN,GTP-binding protein Di-Ras1 (Distinct subgroup of the Ras family member 1) (Ras-related inhibitor of cell growth) (Rig) (Small GTP-binding tumor suppressor 1),DIRAS1 GBTS1 RIG,Homo sapiens (Human),198
+TENM4,Q6N022,reviewed,TEN4_HUMAN,Teneurin-4 (Ten-4) (Protein Odd Oz/ten-m homolog 4) (Tenascin-M4) (Ten-m4) (Teneurin transmembrane protein 4),TENM4 KIAA1302 ODZ4 TNM4,Homo sapiens (Human),2769
+DPYSL3,Q14195,reviewed,DPYL3_HUMAN,Dihydropyrimidinase-related protein 3 (DRP-3) (Collapsin response mediator protein 4) (CRMP-4) (Unc-33-like phosphoprotein 1) (ULIP-1),DPYSL3 CRMP4 DRP3 ULIP ULIP1,Homo sapiens (Human),570
+CPNE3,O75131,reviewed,CPNE3_HUMAN,Copine-3 (Copine III),CPNE3 CPN3 KIAA0636,Homo sapiens (Human),537
+ZDHHC21,Q8IVQ6,reviewed,ZDH21_HUMAN,Palmitoyltransferase ZDHHC21 (EC 2.3.1.225) (DHHC domain-containing cysteine-rich protein 21) (DHHC-21) (Zinc finger DHHC domain-containing protein 21),ZDHHC21,Homo sapiens (Human),265
+SPDYE1,Q8NFV5,reviewed,SPDE1_HUMAN,Speedy protein E1 (Williams-Beuren syndrome chromosomal region 19 protein),SPDYE1 WBSCR19,Homo sapiens (Human),336
+MYO16,Q9Y6X6,reviewed,MYO16_HUMAN,Unconventional myosin-XVI (Neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adapter 3) (Unconventional myosin-16),MYO16 KIAA0865 MYO16B NYAP3,Homo sapiens (Human),1858
+POGK,Q9P215,reviewed,POGK_HUMAN,Pogo transposable element with KRAB domain,POGK KIAA1513 LST003 SLTP003,Homo sapiens (Human),609
+JOSD1,Q15040,reviewed,JOS1_HUMAN,Josephin-1 (EC 3.4.19.12) (Josephin domain-containing protein 1),JOSD1 JSPH1 KIAA0063,Homo sapiens (Human),202
+LRP2,P98164,reviewed,LRP2_HUMAN,Low-density lipoprotein receptor-related protein 2 (LRP-2) (Glycoprotein 330) (gp330) (Megalin),LRP2,Homo sapiens (Human),4655
+C20orf96,Q9NUD7,reviewed,CT096_HUMAN,Uncharacterized protein C20orf96,C20orf96,Homo sapiens (Human),363
+LRRC25,Q8N386,reviewed,LRC25_HUMAN,Leucine-rich repeat-containing protein 25 (Monocyte and plasmacytoid-activated protein),LRRC25 MAPA UNQ6169/PRO20174,Homo sapiens (Human),305
+SLC35A4,L0R6Q1,reviewed,S35U4_HUMAN,SLC35A4 upstream open reading frame protein,SLC35A4,Homo sapiens (Human),103
+OR6J1,Q8NGC5,reviewed,OR6J1_HUMAN,Olfactory receptor 6J1 (Olfactory receptor 6J2),OR6J1 OR6J2,Homo sapiens (Human),347
+CLIC5,Q9NZA1,reviewed,CLIC5_HUMAN,Chloride intracellular channel protein 5,CLIC5,Homo sapiens (Human),410
+BBOF1,Q8ND07,reviewed,BBOF1_HUMAN,Basal body-orientation factor 1 (Coiled-coil domain-containing protein 176),BBOF1 C14orf45 CCDC176,Homo sapiens (Human),529
+MAGEF1,Q9HAY2,reviewed,MAGF1_HUMAN,Melanoma-associated antigen F1 (MAGE-F1) (MAGE-F1 antigen),MAGEF1,Homo sapiens (Human),307
+PAGE5,Q96GU1,reviewed,PAGE5_HUMAN,P antigen family member 5 (PAGE-5) (Cancer/testis antigen 16.1) (CT16.1) (G antigen family E member 1) (Prostate-associated gene 5 protein),PAGE5 GAGEE1,Homo sapiens (Human),130
+FBXW9,Q5XUX1,reviewed,FBXW9_HUMAN,F-box/WD repeat-containing protein 9 (F-box and WD-40 domain-containing protein 9),FBXW9 FBW9,Homo sapiens (Human),458
+LGALSL,Q3ZCW2,reviewed,LEGL_HUMAN,Galectin-related protein (Galectin-like protein) (Lectin galactoside-binding-like protein),LGALSL GRP HSPC159,Homo sapiens (Human),172
+SLC17A2,O00624,reviewed,NPT3_HUMAN,Sodium-dependent phosphate transport protein 3 (Na(+)/PI cotransporter 3) (Sodium/phosphate cotransporter 3) (Solute carrier family 17 member 2),SLC17A2 NPT3,Homo sapiens (Human),439
+NLRP9,Q7RTR0,reviewed,NLRP9_HUMAN,"NACHT, LRR and PYD domains-containing protein 9 (Nucleotide-binding oligomerization domain protein 6) (PYRIN and NACHT-containing protein 12)",NLRP9 NALP9 NOD6 PAN12,Homo sapiens (Human),991
+DNASE2B,Q8WZ79,reviewed,DNS2B_HUMAN,Deoxyribonuclease-2-beta (EC 3.1.22.1) (DNase II-like acid DNase) (DNase2-like acid DNase) (Deoxyribonuclease II beta) (DNase II beta) (Endonuclease DLAD),DNASE2B DLAD,Homo sapiens (Human),361
+ADORA2B,P29275,reviewed,AA2BR_HUMAN,Adenosine receptor A2b,ADORA2B,Homo sapiens (Human),332
+KBTBD3,Q8NAB2,reviewed,KBTB3_HUMAN,Kelch repeat and BTB domain-containing protein 3 (BTB and kelch domain-containing protein 3),KBTBD3 BKLHD3,Homo sapiens (Human),612
+MAGEA3,P43357,reviewed,MAGA3_HUMAN,Melanoma-associated antigen 3 (Antigen MZ2-D) (Cancer/testis antigen 1.3) (CT1.3) (MAGE-3 antigen),MAGEA3 MAGE3,Homo sapiens (Human),314
+PRMT9,Q6P2P2,reviewed,ANM9_HUMAN,Protein arginine N-methyltransferase 9 (Protein arginine N-methyltransferase 10) (EC 2.1.1.320),PRMT9 PRMT10,Homo sapiens (Human),845
+TAFAZZIN,Q16635,reviewed,TAZ_HUMAN,Tafazzin (Taz) (EC 2.3.1.-) (Protein G4.5),TAFAZZIN EFE2 G4.5 TAZ,Homo sapiens (Human),262
+PES1,O00541,reviewed,PESC_HUMAN,Pescadillo homolog,PES1,Homo sapiens (Human),588
+CSNK2A2,P19784,reviewed,CSK22_HUMAN,Casein kinase II subunit alpha' (CK II alpha') (EC 2.7.11.1),CSNK2A2 CK2A2,Homo sapiens (Human),350
+MIEN1,Q9BRT3,reviewed,MIEN1_HUMAN,Migration and invasion enhancer 1 (HBV X-transactivated gene 4 protein) (HBV XAg-transactivated protein 4) (Protein C35),MIEN1 C17orf37 RDX12 XTP4,Homo sapiens (Human),115
+C17orf113,A0A1B0GUU1,reviewed,CQ113_HUMAN,Uncharacterized protein C17orf113,C17orf113,Homo sapiens (Human),675
+IL5RA,Q01344,reviewed,IL5RA_HUMAN,Interleukin-5 receptor subunit alpha (IL-5 receptor subunit alpha) (IL-5R subunit alpha) (IL-5R-alpha) (IL-5RA) (CDw125) (CD antigen CD125),IL5RA IL5R,Homo sapiens (Human),420
+SNX2,O60749,reviewed,SNX2_HUMAN,Sorting nexin-2 (Transformation-related gene 9 protein) (TRG-9),SNX2 TRG9,Homo sapiens (Human),519
+NFIX,Q14938,reviewed,NFIX_HUMAN,Nuclear factor 1 X-type (NF1-X) (Nuclear factor 1/X) (CCAAT-box-binding transcription factor) (CTF) (Nuclear factor I/X) (NF-I/X) (NFI-X) (TGGCA-binding protein),NFIX,Homo sapiens (Human),502
+CATSPER4,Q7RTX7,reviewed,CTSR4_HUMAN,Cation channel sperm-associated protein 4 (CatSper4),CATSPER4,Homo sapiens (Human),472
+NCR3LG1,Q68D85,reviewed,NR3L1_HUMAN,Natural cytotoxicity triggering receptor 3 ligand 1 (B7 homolog 6) (B7-H6),NCR3LG1 B7H6,Homo sapiens (Human),454
+SPG7,Q9UQ90,reviewed,SPG7_HUMAN,Paraplegin (EC 3.4.24.-) (Cell matrix adhesion regulator) (Spastic paraplegia 7 protein),SPG7 CAR CMAR PGN,Homo sapiens (Human),795
+SART1,O43290,reviewed,SNUT1_HUMAN,U4/U6.U5 tri-snRNP-associated protein 1 (SNU66 homolog) (hSnu66) (Squamous cell carcinoma antigen recognized by T-cells 1) (SART-1) (hSART-1) (U4/U6.U5 tri-snRNP-associated 110 kDa protein) (allergen Hom s 1),SART1,Homo sapiens (Human),800
+VCP,P55072,reviewed,TERA_HUMAN,Transitional endoplasmic reticulum ATPase (TER ATPase) (EC 3.6.4.6) (15S Mg(2+)-ATPase p97 subunit) (Valosin-containing protein) (VCP),VCP,Homo sapiens (Human),806
+TSGA13,Q96PP4,reviewed,TSG13_HUMAN,Testis-specific gene 13 protein,TSGA13,Homo sapiens (Human),275
+SOS1,Q07889,reviewed,SOS1_HUMAN,Son of sevenless homolog 1 (SOS-1),SOS1,Homo sapiens (Human),1333
+ESRP2,Q9H6T0,reviewed,ESRP2_HUMAN,Epithelial splicing regulatory protein 2 (RNA-binding motif protein 35B) (RNA-binding protein 35B),ESRP2 RBM35B PP7059,Homo sapiens (Human),727
+TDP2,O95551,reviewed,TYDP2_HUMAN,Tyrosyl-DNA phosphodiesterase 2 (Tyr-DNA phosphodiesterase 2) (hTDP2) (EC 3.1.4.-) (5'-tyrosyl-DNA phosphodiesterase) (5'-Tyr-DNA phosphodiesterase) (ETS1-associated protein 2) (ETS1-associated protein II) (EAPII) (TRAF and TNF receptor-associated protein) (Tyrosyl-RNA phosphodiesterase) (VPg unlinkase),TDP2 EAP2 TTRAP AD-022,Homo sapiens (Human),362
+CYTH4,Q9UIA0,reviewed,CYH4_HUMAN,"Cytohesin-4 (PH, SEC7 and coiled-coil domain-containing protein 4)",CYTH4 CYT4 PSCD4,Homo sapiens (Human),394
+HSPB7,Q9UBY9,reviewed,HSPB7_HUMAN,Heat shock protein beta-7 (HspB7) (Cardiovascular heat shock protein) (cvHsp),HSPB7 CVHSP,Homo sapiens (Human),170
+OOSP2,Q86WS3,reviewed,OOSP2_HUMAN,Oocyte-secreted protein 2 (Placenta-specific 1-like protein) (Protein TMEM122),OOSP2 PLAC1L TMEM122,Homo sapiens (Human),158
+CT55,Q8WUE5,reviewed,CT55_HUMAN,Cancer/testis antigen 55 (Tumor antigen BJ-HCC-20),CT55 CXorf48,Homo sapiens (Human),264
+MIGA2,Q7L4E1,reviewed,MIGA2_HUMAN,Mitoguardin 2 (Protein FAM73B),MIGA2 C9orf54 FAM73B PSEC0112,Homo sapiens (Human),593
+CPEB2,Q7Z5Q1,reviewed,CPEB2_HUMAN,Cytoplasmic polyadenylation element-binding protein 2 (CPE-BP2) (CPE-binding protein 2) (hCPEB-2),CPEB2,Homo sapiens (Human),589
+QSER1,Q2KHR3,reviewed,QSER1_HUMAN,Glutamine and serine-rich protein 1,QSER1,Homo sapiens (Human),1735
+ZNF195,O14628,reviewed,ZN195_HUMAN,Zinc finger protein 195,ZNF195 ZNFP104,Homo sapiens (Human),629
+TTC39B,Q5VTQ0,reviewed,TT39B_HUMAN,Tetratricopeptide repeat protein 39B (TPR repeat protein 39B),TTC39B C9orf52,Homo sapiens (Human),682
+CYP3A43,Q9HB55,reviewed,CP343_HUMAN,Cytochrome P450 3A43 (EC 1.14.14.1),CYP3A43,Homo sapiens (Human),503
+FUZ,Q9BT04,reviewed,FUZZY_HUMAN,Protein fuzzy homolog,FUZ FY,Homo sapiens (Human),418
+SPATA31A5,Q5VU36,reviewed,S31A5_HUMAN,Spermatogenesis-associated protein 31A5 (Protein FAM75A5),SPATA31A5 FAM75A5,Homo sapiens (Human),1347
+PRKCSH,P14314,reviewed,GLU2B_HUMAN,Glucosidase 2 subunit beta (80K-H protein) (Glucosidase II subunit beta) (Protein kinase C substrate 60.1 kDa protein heavy chain) (PKCSH),PRKCSH G19P1,Homo sapiens (Human),528
+MOCOS,Q96EN8,reviewed,MOCOS_HUMAN,Molybdenum cofactor sulfurase (MCS) (MOS) (MoCo sulfurase) (hMCS) (EC 2.8.1.9) (Molybdenum cofactor sulfurtransferase),MOCOS,Homo sapiens (Human),888
+KIR2DS2,P43631,reviewed,KI2S2_HUMAN,Killer cell immunoglobulin-like receptor 2DS2 (CD158 antigen-like family member J) (NK receptor 183 ActI) (Natural killer-associated transcript 5) (NKAT-5) (p58 natural killer cell receptor clone CL-49) (p58 NK receptor CL-49) (CD antigen CD158j),KIR2DS2 CD158J NKAT5,Homo sapiens (Human),304
+TIMP2,P16035,reviewed,TIMP2_HUMAN,Metalloproteinase inhibitor 2 (CSC-21K) (Tissue inhibitor of metalloproteinases 2) (TIMP-2),TIMP2,Homo sapiens (Human),220
+CYP27A1,Q02318,reviewed,CP27A_HUMAN,"Sterol 26-hydroxylase, mitochondrial (EC 1.14.15.15) (5-beta-cholestane-3-alpha,7-alpha,12-alpha-triol 26-hydroxylase) (Cytochrome P-450C27/25) (Cytochrome P450 27) (Sterol 27-hydroxylase) (Vitamin D(3) 25-hydroxylase)",CYP27A1 CYP27,Homo sapiens (Human),531
+TMEM232,C9JQI7,reviewed,TM232_HUMAN,Transmembrane protein 232,TMEM232,Homo sapiens (Human),657
+PCDHA8,Q9Y5H6,reviewed,PCDA8_HUMAN,Protocadherin alpha-8 (PCDH-alpha-8),PCDHA8,Homo sapiens (Human),950
+TEX50,A0A1B0GTY4,reviewed,TEX50_HUMAN,Testis-expressed protein 50,TEX50,Homo sapiens (Human),177
+MRPS26,Q9BYN8,reviewed,RT26_HUMAN,"28S ribosomal protein S26, mitochondrial (MRP-S26) (S26mt) (28S ribosomal protein S13, mitochondrial) (MRP-S13) (S13mt) (Mitochondrial small ribosomal subunit protein mS26)",MRPS26 C20orf193 RPMS13,Homo sapiens (Human),205
+AFAP1,Q8N556,reviewed,AFAP1_HUMAN,Actin filament-associated protein 1 (110 kDa actin filament-associated protein) (AFAP-110),AFAP1 AFAP,Homo sapiens (Human),730
+CT45A5,P0DMU8,reviewed,CT455_HUMAN,Cancer/testis antigen family 45 member A5 (Cancer/testis antigen 45-5) (Cancer/testis antigen 45A5),CT45A5 CT45-5,Homo sapiens (Human),189
+PKDREJ,Q9NTG1,reviewed,PKDRE_HUMAN,Polycystin family receptor for egg jelly (PKD and REJ homolog) (Polycystic kidney disease and receptor for egg jelly-related protein),PKDREJ,Homo sapiens (Human),2253
+NTHL1,P78549,reviewed,NTH_HUMAN,Endonuclease III-like protein 1 (hNTH1) (EC 3.2.2.-) (EC 4.2.99.18) (Bifunctional DNA N-glycosylase/DNA-(apurinic or apyrimidinic site) lyase) (DNA glycosylase/AP lyase),NTHL1 NTH1 OCTS3,Homo sapiens (Human),312
+HINT1,P49773,reviewed,HINT1_HUMAN,Adenosine 5'-monophosphoramidase HINT1 (EC 3.9.1.-) (Desumoylating isopeptidase HINT1) (EC 3.4.22.-) (Histidine triad nucleotide-binding protein 1) (Protein kinase C inhibitor 1) (Protein kinase C-interacting protein 1) (PKCI-1),HINT1 HINT PKCI1 PRKCNH1,Homo sapiens (Human),126
+SEMA5B,Q9P283,reviewed,SEM5B_HUMAN,Semaphorin-5B,SEMA5B KIAA1445 SEMAG UNQ5867/PRO34001,Homo sapiens (Human),1151
+EFNB3,Q15768,reviewed,EFNB3_HUMAN,Ephrin-B3 (EPH-related receptor transmembrane ligand ELK-L3) (EPH-related receptor tyrosine kinase ligand 8) (LERK-8),EFNB3 EPLG8 LERK8,Homo sapiens (Human),340
+LPCAT3,Q6P1A2,reviewed,MBOA5_HUMAN,Lysophospholipid acyltransferase 5 (LPLAT 5) (EC 2.3.1.-) (1-acylglycerophosphocholine O-acyltransferase) (EC 2.3.1.23) (1-acylglycerophosphoethanolamine O-acyltransferase) (EC 2.3.1.n7) (1-acylglycerophosphoserine O-acyltransferase) (EC 2.3.1.n6) (Lysophosphatidylcholine acyltransferase) (LPCAT) (Lyso-PC acyltransferase) (Lysophosphatidylcholine acyltransferase 3) (Lyso-PC acyltransferase 3) (Lysophosphatidylserine acyltransferase) (LPSAT) (Lyso-PS acyltransferase) (Membrane-bound O-acyltransferase domain-containing protein 5) (O-acyltransferase domain-containing protein 5),LPCAT3 MBOAT5 OACT5,Homo sapiens (Human),487
+LAMA4,Q16363,reviewed,LAMA4_HUMAN,Laminin subunit alpha-4 (Laminin-14 subunit alpha) (Laminin-8 subunit alpha) (Laminin-9 subunit alpha),LAMA4,Homo sapiens (Human),1823
+UTP23,Q9BRU9,reviewed,UTP23_HUMAN,rRNA-processing protein UTP23 homolog,UTP23 C8orf53,Homo sapiens (Human),249
+TEPP,Q6URK8,reviewed,TEPP_HUMAN,"Testis, prostate and placenta-expressed protein",TEPP,Homo sapiens (Human),271
+CPNE9,Q8IYJ1,reviewed,CPNE9_HUMAN,Copine-9 (Copine IX),CPNE9,Homo sapiens (Human),553
+SUCO,Q9UBS9,reviewed,SUCO_HUMAN,SUN domain-containing ossification factor (Membrane protein CH1) (Protein osteopotentia homolog) (SUN-like protein 1),SUCO C1orf9 CH1 OPT SLP1,Homo sapiens (Human),1254
+CFHR4,Q92496,reviewed,FHR4_HUMAN,Complement factor H-related protein 4 (FHR-4),CFHR4 CFHL4 FHR4,Homo sapiens (Human),578
+DLGAP1,O14490,reviewed,DLGP1_HUMAN,Disks large-associated protein 1 (DAP-1) (Guanylate kinase-associated protein) (hGKAP) (PSD-95/SAP90-binding protein 1) (SAP90/PSD-95-associated protein 1) (SAPAP1),DLGAP1 DAP1 GKAP,Homo sapiens (Human),977
+SLC10A3,P09131,reviewed,P3_HUMAN,P3 protein (Solute carrier family 10 member 3),SLC10A3 DXS253E P3,Homo sapiens (Human),477
+FGFBP2,Q9BYJ0,reviewed,FGFP2_HUMAN,Fibroblast growth factor-binding protein 2 (FGF-BP2) (FGF-binding protein 2) (FGFBP-2) (37 kDa killer-specific secretory protein) (Ksp37) (HBp17-related protein) (HBp17-RP),FGFBP2 KSP37 UNQ425/PRO1065,Homo sapiens (Human),223
+MRPL54,Q6P161,reviewed,RM54_HUMAN,"39S ribosomal protein L54, mitochondrial (L54mt) (MRP-L54) (Mitochondrial large ribosomal subunit protein mL54)",MRPL54,Homo sapiens (Human),138
+OTP,Q5XKR4,reviewed,OTP_HUMAN,Homeobox protein orthopedia,OTP,Homo sapiens (Human),325
+CRYBB1,P53674,reviewed,CRBB1_HUMAN,Beta-crystallin B1 (Beta-B1 crystallin),CRYBB1,Homo sapiens (Human),252
+C12orf42,Q96LP6,reviewed,CL042_HUMAN,Uncharacterized protein C12orf42,C12orf42,Homo sapiens (Human),360
+NOS2,P35228,reviewed,NOS2_HUMAN,"Nitric oxide synthase, inducible (EC 1.14.13.39) (Hepatocyte NOS) (HEP-NOS) (Inducible NO synthase) (Inducible NOS) (iNOS) (NOS type II) (Peptidyl-cysteine S-nitrosylase NOS2)",NOS2 NOS2A,Homo sapiens (Human),1153
+STOML3,Q8TAV4,reviewed,STML3_HUMAN,Stomatin-like protein 3 (SLP-3),STOML3,Homo sapiens (Human),291
+ASL,P04424,reviewed,ARLY_HUMAN,Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase),ASL,Homo sapiens (Human),464
+FBXW10B,O95170,reviewed,CDRT1_HUMAN,F-box and WD repeat domain containing protein 10B (CMT1A duplicated region transcript 1 protein),FBXW10B C17orf1 C17orf1A CDRT1 HREP,Homo sapiens (Human),752
+FADS2,O95864,reviewed,FADS2_HUMAN,Acyl-CoA 6-desaturase (EC 1.14.19.3) (Delta(6) fatty acid desaturase) (D6D) (Delta(6) desaturase) (Delta-6 desaturase) (Fatty acid desaturase 2),FADS2,Homo sapiens (Human),444
+TRIM62,Q9BVG3,reviewed,TRI62_HUMAN,E3 ubiquitin-protein ligase TRIM62 (EC 2.3.2.27) (Tripartite motif-containing protein 62),TRIM62,Homo sapiens (Human),475
+ADAT2,Q7Z6V5,reviewed,ADAT2_HUMAN,tRNA-specific adenosine deaminase 2 (EC 3.5.4.33) (Deaminase domain-containing protein 1) (tRNA-specific adenosine-34 deaminase subunit ADAT2),ADAT2 DEADC1,Homo sapiens (Human),191
+TREML4,Q6UXN2,reviewed,TRML4_HUMAN,Trem-like transcript 4 protein (TLT-4) (Triggering receptor expressed on myeloid cells-like protein 4),TREML4 TLT4 UNQ9425/PRO34675,Homo sapiens (Human),200
+ZNF333,Q96JL9,reviewed,ZN333_HUMAN,Zinc finger protein 333,ZNF333 KIAA1806,Homo sapiens (Human),665
+PAICS,P22234,reviewed,PUR6_HUMAN,Bifunctional phosphoribosylaminoimidazole carboxylase/phosphoribosylaminoimidazole succinocarboxamide synthetase (PAICS) [Includes: Phosphoribosylaminoimidazole carboxylase (EC 4.1.1.21) (AIR carboxylase) (AIRC); Phosphoribosylaminoimidazole succinocarboxamide synthetase (EC 6.3.2.6) (SAICAR synthetase)],PAICS ADE2 AIRC PAIS,Homo sapiens (Human),425
+SBNO2,Q9Y2G9,reviewed,SBNO2_HUMAN,Protein strawberry notch homolog 2,SBNO2 KIAA0963,Homo sapiens (Human),1366
+ZFP28,Q8NHY6,reviewed,ZFP28_HUMAN,Zinc finger protein 28 homolog (Zfp-28) (Krueppel-like zinc finger factor X6),ZFP28 KIAA1431,Homo sapiens (Human),868
+TMEM47,Q9BQJ4,reviewed,TMM47_HUMAN,Transmembrane protein 47 (Brain cell membrane protein 1) (Transmembrane 4 superfamily member 10),TMEM47 BCMP1 TM4SF10,Homo sapiens (Human),181
+CT47A10,Q5JQC4,reviewed,CT47A_HUMAN,Cancer/testis antigen 47A (Cancer/testis antigen 47) (CT47),CT47A1 CT47.1; CT47A2 CT47.2; CT47A3 CT47.3; CT47A4 CT47.4; CT47A5 CT47.5; CT47A6 CT47.6; CT47A7 CT47.7; CT47A8 CT47.8; CT47A9 CT47.9; CT47A10 CT47.10; CT47A11 CT47.11; CT47A12 CT47.12,Homo sapiens (Human),288
+TTC5,Q8N0Z6,reviewed,TTC5_HUMAN,Tetratricopeptide repeat protein 5 (TPR repeat protein 5) (Stress-responsive activator of p300) (Protein Strap),TTC5,Homo sapiens (Human),440
+DOLK,Q9UPQ8,reviewed,DOLK_HUMAN,Dolichol kinase (EC 2.7.1.108) (Transmembrane protein 15),DOLK KIAA1094 TMEM15 UNQ2422/PRO4980,Homo sapiens (Human),538
+TACO1,Q9BSH4,reviewed,TACO1_HUMAN,Translational activator of cytochrome c oxidase 1 (Coiled-coil domain-containing protein 44) (Translational activator of mitochondrially-encoded cytochrome c oxidase I),TACO1 CCDC44 PRO0477,Homo sapiens (Human),297
+TTC22,Q5TAA0,reviewed,TTC22_HUMAN,Tetratricopeptide repeat protein 22 (TPR repeat protein 22),TTC22,Homo sapiens (Human),569
+OR6M1,Q8NGM8,reviewed,OR6M1_HUMAN,Olfactory receptor 6M1 (Olfactory receptor OR11-271),OR6M1,Homo sapiens (Human),313
+HNRNPCL4,P0DMR1,reviewed,HNRC4_HUMAN,Heterogeneous nuclear ribonucleoprotein C-like 4,HNRNPCL4,Homo sapiens (Human),293
+RUBCNL,Q9H714,reviewed,PACER_HUMAN,Protein associated with UVRAG as autophagy enhancer (Pacer) (Protein Rubicon-like),RUBCNL C13orf18 KIAA0226L,Homo sapiens (Human),662
+MAGED1,Q9Y5V3,reviewed,MAGD1_HUMAN,Melanoma-associated antigen D1 (MAGE tumor antigen CCF) (MAGE-D1 antigen) (Neurotrophin receptor-interacting MAGE homolog),MAGED1 NRAGE PP2250 PRO2292,Homo sapiens (Human),778
+ENGASE,Q8NFI3,reviewed,ENASE_HUMAN,Cytosolic endo-beta-N-acetylglucosaminidase (ENGase) (EC 3.2.1.96),ENGASE,Homo sapiens (Human),743
+BCKDK,O14874,reviewed,BCKD_HUMAN,"[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial (EC 2.7.11.4) (Branched-chain alpha-ketoacid dehydrogenase kinase) (BCKD-kinase) (BCKDHKIN)",BCKDK,Homo sapiens (Human),412
+CLASRP,Q8N2M8,reviewed,CLASR_HUMAN,"CLK4-associating serine/arginine rich protein (Splicing factor, arginine/serine-rich 16) (Suppressor of white-apricot homolog 2)",CLASRP SFRS16 SWAP2 UNQ2428/PRO4988,Homo sapiens (Human),674
+SIRT3,Q9NTG7,reviewed,SIR3_HUMAN,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial (hSIRT3) (EC 2.3.1.286) (Regulatory protein SIR2 homolog 3) (SIR2-like protein 3)",SIRT3 SIR2L3,Homo sapiens (Human),399
+HPDL,Q96IR7,reviewed,HPDL_HUMAN,4-hydroxyphenylpyruvate dioxygenase-like protein (HPD-like protein) (EC 1.13.-.-) (Glyoxalase domain-containing protein 1),HPDL GLOXD1,Homo sapiens (Human),371
+HHAT,Q5VTY9,reviewed,HHAT_HUMAN,Protein-cysteine N-palmitoyltransferase HHAT (EC 2.3.1.-) (Hedgehog acyltransferase) (Melanoma antigen recognized by T-cells 2) (MART-2) (Skinny hedgehog protein 1),HHAT MART2 SKI1,Homo sapiens (Human),493
+KRTAP10-1,P60331,reviewed,KR101_HUMAN,Keratin-associated protein 10-1 (High sulfur keratin-associated protein 10.1) (Keratin-associated protein 10.1) (Keratin-associated protein 18-1) (Keratin-associated protein 18.1),KRTAP10-1 KAP10.1 KAP18-1 KRTAP10.1 KRTAP18-1 KRTAP18.1,Homo sapiens (Human),282
+CHST11,Q9NPF2,reviewed,CHSTB_HUMAN,Carbohydrate sulfotransferase 11 (EC 2.8.2.5) (Chondroitin 4-O-sulfotransferase 1) (Chondroitin 4-sulfotransferase 1) (C4S-1) (C4ST-1) (C4ST1),CHST11,Homo sapiens (Human),352
+FAM53C,Q9NYF3,reviewed,FA53C_HUMAN,Protein FAM53C,FAM53C C5orf6,Homo sapiens (Human),392
+KRT19,P08727,reviewed,K1C19_HUMAN,"Keratin, type I cytoskeletal 19 (Cytokeratin-19) (CK-19) (Keratin-19) (K19)",KRT19,Homo sapiens (Human),400
+TRNP1,Q6NT89,reviewed,TRNP1_HUMAN,TMF-regulated nuclear protein 1,TRNP1 C1orf225 TRNP,Homo sapiens (Human),227
+LRCOL1,A6NCL2,reviewed,LRCL1_HUMAN,Leucine-rich colipase-like protein 1,LRCOL1,Homo sapiens (Human),159
+SLC22A10,Q63ZE4,reviewed,S22AA_HUMAN,Solute carrier family 22 member 10 (Organic anion transporter 5),SLC22A10 OAT5,Homo sapiens (Human),541
+IGLV1-51,P01701,reviewed,LV151_HUMAN,Immunoglobulin lambda variable 1-51 (Ig lambda chain V-I region BL2) (Ig lambda chain V-I region EPS) (Ig lambda chain V-I region NEW) (Ig lambda chain V-I region NIG-64),IGLV1-51,Homo sapiens (Human),117
+STAU1,O95793,reviewed,STAU1_HUMAN,Double-stranded RNA-binding protein Staufen homolog 1,STAU1 STAU,Homo sapiens (Human),577
+UNC50,Q53HI1,reviewed,UNC50_HUMAN,Protein unc-50 homolog (Periodontal ligament-specific protein 22) (PDLs22) (Protein GMH1 homolog) (hGMH1) (Uncoordinated-like protein),UNC50 UNCL HSD-23 HSD23,Homo sapiens (Human),259
+TRBV12-4,A0A0B4J2E0,reviewed,TVBL4_HUMAN,T cell receptor beta variable 12-4,TRBV12-4,Homo sapiens (Human),115
+RSBN1L,Q6PCB5,reviewed,RSBNL_HUMAN,Lysine-specific demethylase RSBN1L (EC 1.14.11.-) (Round spermatid basic protein 1-like protein),RSBN1L,Homo sapiens (Human),846
+GOLM1,Q8NBJ4,reviewed,GOLM1_HUMAN,Golgi membrane protein 1 (Golgi membrane protein GP73) (Golgi phosphoprotein 2),GOLM1 C9orf155 GOLPH2 PSEC0242 UNQ686/PRO1326,Homo sapiens (Human),401
+OR8G2P,Q6IF36,reviewed,O8G2P_HUMAN,Putative olfactory receptor 8G2 (Olfactory receptor 8G4) (Olfactory receptor OR11-292) (Olfactory receptor TPCR120),OR8G2P OR8G2 OR8G4,Homo sapiens (Human),304
+RAB8A,P61006,reviewed,RAB8A_HUMAN,Ras-related protein Rab-8A (EC 3.6.5.2) (Oncogene c-mel),RAB8A MEL RAB8,Homo sapiens (Human),207
+UNC45A,Q9H3U1,reviewed,UN45A_HUMAN,Protein unc-45 homolog A (Unc-45A) (GCUNC-45) (Smooth muscle cell-associated protein 1) (SMAP-1),UNC45A SMAP1,Homo sapiens (Human),944
+HYLS1,Q96M11,reviewed,HYLS1_HUMAN,Centriolar and ciliogenesis-associated protein HYLS1 (Hydrolethalus syndrome protein 1),HYLS1 HLS,Homo sapiens (Human),299
+KCNMA1,Q12791,reviewed,KCMA1_HUMAN,"Calcium-activated potassium channel subunit alpha-1 (BK channel) (BKCA alpha) (Calcium-activated potassium channel, subfamily M subunit alpha-1) (K(VCA)alpha) (KCa1.1) (Maxi K channel) (MaxiK) (Slo-alpha) (Slo1) (Slowpoke homolog) (Slo homolog) (hSlo)",KCNMA1 KCNMA SLO,Homo sapiens (Human),1236
+TK2,O00142,reviewed,KITM_HUMAN,"Thymidine kinase 2, mitochondrial (EC 2.7.1.21) (2'-deoxyuridine kinase TK2) (EC 2.7.1.74) (Deoxycytidine kinase TK2) (EC 2.7.1.-) (Mt-TK)",TK2,Homo sapiens (Human),265
+ELMOD2,Q8IZ81,reviewed,ELMD2_HUMAN,ELMO domain-containing protein 2,ELMOD2,Homo sapiens (Human),293
+CDC23,Q9UJX2,reviewed,CDC23_HUMAN,Cell division cycle protein 23 homolog (Anaphase-promoting complex subunit 8) (APC8) (Cyclosome subunit 8),CDC23 ANAPC8,Homo sapiens (Human),597
+CCDC71,Q8IV32,reviewed,CCD71_HUMAN,Coiled-coil domain-containing protein 71,CCDC71,Homo sapiens (Human),467
+TMEM260,Q9NX78,reviewed,TM260_HUMAN,Transmembrane protein 260,TMEM260 C14orf101,Homo sapiens (Human),707
+MPZL2,O60487,reviewed,MPZL2_HUMAN,Myelin protein zero-like protein 2 (Epithelial V-like antigen 1),MPZL2 EVA EVA1 UNQ606/PRO1192,Homo sapiens (Human),215
+UPF3A,Q9H1J1,reviewed,REN3A_HUMAN,Regulator of nonsense transcripts 3A (Nonsense mRNA reducing factor 3A) (Up-frameshift suppressor 3 homolog A) (hUpf3),UPF3A RENT3A UPF3,Homo sapiens (Human),476
+RRH,O14718,reviewed,OPSX_HUMAN,Visual pigment-like receptor peropsin,RRH,Homo sapiens (Human),337
+PRDM11,Q9NQV5,reviewed,PRD11_HUMAN,PR domain-containing protein 11 (EC 2.1.1.-),PRDM11 PFM8,Homo sapiens (Human),511
+SLC26A11,Q86WA9,reviewed,S2611_HUMAN,Sodium-independent sulfate anion transporter (Solute carrier family 26 member 11),SLC26A11,Homo sapiens (Human),606
+GBX2,P52951,reviewed,GBX2_HUMAN,Homeobox protein GBX-2 (Gastrulation and brain-specific homeobox protein 2),GBX2,Homo sapiens (Human),348
+PCDHGA6,Q9Y5G7,reviewed,PCDG6_HUMAN,Protocadherin gamma-A6 (PCDH-gamma-A6),PCDHGA6,Homo sapiens (Human),932
+CEP104,O60308,reviewed,CE104_HUMAN,Centrosomal protein of 104 kDa (Cep104),CEP104 KIAA0562,Homo sapiens (Human),925
+ERBB4,Q15303,reviewed,ERBB4_HUMAN,Receptor tyrosine-protein kinase erbB-4 (EC 2.7.10.1) (Proto-oncogene-like protein c-ErbB-4) (Tyrosine kinase-type cell surface receptor HER4) (p180erbB4) [Cleaved into: ERBB4 intracellular domain (4ICD) (E4ICD) (s80HER4)],ERBB4 HER4,Homo sapiens (Human),1308
+TTC31,Q49AM3,reviewed,TTC31_HUMAN,Tetratricopeptide repeat protein 31 (TPR repeat protein 31),TTC31,Homo sapiens (Human),519
+ACADS,P16219,reviewed,ACADS_HUMAN,"Short-chain specific acyl-CoA dehydrogenase, mitochondrial (SCAD) (EC 1.3.8.1) (Butyryl-CoA dehydrogenase)",ACADS,Homo sapiens (Human),412
+CA12,O43570,reviewed,CAH12_HUMAN,Carbonic anhydrase 12 (EC 4.2.1.1) (Carbonate dehydratase XII) (Carbonic anhydrase XII) (CA-XII) (Tumor antigen HOM-RCC-3.1.3),CA12,Homo sapiens (Human),354
+RASA1,P20936,reviewed,RASA1_HUMAN,Ras GTPase-activating protein 1 (GAP) (GTPase-activating protein) (RasGAP) (Ras p21 protein activator) (p120GAP),RASA1 GAP RASA,Homo sapiens (Human),1047
+GNPDA2,Q8TDQ7,reviewed,GNPI2_HUMAN,Glucosamine-6-phosphate isomerase 2 (EC 3.5.99.6) (Glucosamine-6-phosphate deaminase 2) (GNPDA 2) (GlcN6P deaminase 2) (Glucosamine-6-phosphate isomerase SB52),GNPDA2 GNP2,Homo sapiens (Human),276
+WDR26,Q9H7D7,reviewed,WDR26_HUMAN,WD repeat-containing protein 26 (CUL4- and DDB1-associated WDR protein 2) (Myocardial ischemic preconditioning up-regulated protein 2),WDR26 CDW2 MIP2 PRO0852,Homo sapiens (Human),661
+EDN3,P14138,reviewed,EDN3_HUMAN,Endothelin-3 (ET-3) (Preproendothelin-3) (PPET3),EDN3,Homo sapiens (Human),238
+CDH15,P55291,reviewed,CAD15_HUMAN,Cadherin-15 (Cadherin-14) (Muscle cadherin) (M-cadherin),CDH15 CDH14 CDH3,Homo sapiens (Human),814
+CUX1,P39880,reviewed,CUX1_HUMAN,Homeobox protein cut-like 1 (CCAAT displacement protein) (CDP) (CDP/Cux p200) (Homeobox protein cux-1) [Cleaved into: CDP/Cux p110],CUX1 CUTL1,Homo sapiens (Human),1505
+HSPH1,Q92598,reviewed,HS105_HUMAN,Heat shock protein 105 kDa (Antigen NY-CO-25) (Heat shock 110 kDa protein),HSPH1 HSP105 HSP110 KIAA0201,Homo sapiens (Human),858
+PPM1D,O15297,reviewed,PPM1D_HUMAN,Protein phosphatase 1D (EC 3.1.3.16) (Protein phosphatase 2C isoform delta) (PP2C-delta) (Protein phosphatase magnesium-dependent 1 delta) (p53-induced protein phosphatase 1),PPM1D WIP1,Homo sapiens (Human),605
+ADIPOR2,Q86V24,reviewed,PAQR2_HUMAN,Adiponectin receptor protein 2 (Progestin and adipoQ receptor family member 2) (Progestin and adipoQ receptor family member II),ADIPOR2 PAQR2,Homo sapiens (Human),386
+KRTAP10-2,P60368,reviewed,KR102_HUMAN,Keratin-associated protein 10-2 (High sulfur keratin-associated protein 10.2) (Keratin-associated protein 10.2) (Keratin-associated protein 18-2) (Keratin-associated protein 18.2),KRTAP10-2 KAP10.2 KAP18-2 KRTAP10.2 KRTAP18-2 KRTAP18.2,Homo sapiens (Human),255
+AMD1,P17707,reviewed,DCAM_HUMAN,S-adenosylmethionine decarboxylase proenzyme (AdoMetDC) (SAMDC) (EC 4.1.1.50) [Cleaved into: S-adenosylmethionine decarboxylase alpha chain; S-adenosylmethionine decarboxylase beta chain],AMD1 AMD,Homo sapiens (Human),334
+CAPNS1,P04632,reviewed,CPNS1_HUMAN,Calpain small subunit 1 (CSS1) (Calcium-activated neutral proteinase small subunit) (CANP small subunit) (Calcium-dependent protease small subunit) (CDPS) (Calcium-dependent protease small subunit 1) (Calpain regulatory subunit),CAPNS1 CAPN4 CAPNS,Homo sapiens (Human),268
+ZNF585A,Q6P3V2,reviewed,Z585A_HUMAN,Zinc finger protein 585A,ZNF585A,Homo sapiens (Human),769
+BPIFB2,Q8N4F0,reviewed,BPIB2_HUMAN,"BPI fold-containing family B member 2 (Bactericidal/permeability-increasing protein-like 1) (BPI-like 1) (Long palate, lung and nasal epithelium carcinoma-associated protein 2) (RYSR)",BPIFB2 BPIL1 C20orf184 LPLUNC2 UNQ2489/PRO5776,Homo sapiens (Human),458
+MLANA,Q16655,reviewed,MAR1_HUMAN,Melanoma antigen recognized by T-cells 1 (MART-1) (Antigen LB39-AA) (Antigen SK29-AA) (Protein Melan-A),MLANA MART1,Homo sapiens (Human),118
+CCDC182,A6NF36,reviewed,CC182_HUMAN,Coiled-coil domain-containing protein 182,CCDC182,Homo sapiens (Human),153
+ENO1,P06733,reviewed,ENOA_HUMAN,Alpha-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (C-myc promoter-binding protein) (Enolase 1) (MBP-1) (MPB-1) (Non-neural enolase) (NNE) (Phosphopyruvate hydratase) (Plasminogen-binding protein),ENO1 ENO1L1 MBPB1 MPB1,Homo sapiens (Human),434
+ANAPC7,Q9UJX3,reviewed,APC7_HUMAN,Anaphase-promoting complex subunit 7 (APC7) (Cyclosome subunit 7),ANAPC7 APC7,Homo sapiens (Human),565
+BNIP1,Q12981,reviewed,SEC20_HUMAN,Vesicle transport protein SEC20 (BCL2/adenovirus E1B 19 kDa protein-interacting protein 1) (Transformation-related gene 8 protein) (TRG-8),BNIP1 NIP1 SEC20L TRG8,Homo sapiens (Human),228
+FAM241A,Q8N8J7,reviewed,F241A_HUMAN,Uncharacterized protein FAM241A,FAM241A C4orf32,Homo sapiens (Human),132
+ATP5MGL,Q7Z4Y8,reviewed,AT5L2_HUMAN,"Putative ATP synthase subunit g 2, mitochondrial (ATPase subunit g 2) (ATP synthase membrane subunit g-like protein)",ATP5MGL ATP5K2 ATP5L2,Homo sapiens (Human),100
+CACNB3,P54284,reviewed,CACB3_HUMAN,Voltage-dependent L-type calcium channel subunit beta-3 (CAB3) (Calcium channel voltage-dependent subunit beta 3),CACNB3 CACNLB3,Homo sapiens (Human),484
+TMEM156,Q8N614,reviewed,TM156_HUMAN,Transmembrane protein 156,TMEM156,Homo sapiens (Human),296
+FAM3B,P58499,reviewed,FAM3B_HUMAN,Protein FAM3B (Cytokine-like protein 2-21) (Pancreatic-derived factor) (PANDER),FAM3B C21orf11 C21orf76 PRED44 UNQ320/PRO365,Homo sapiens (Human),235
+HSPA1A,P0DMV8,reviewed,HS71A_HUMAN,Heat shock 70 kDa protein 1A (Heat shock 70 kDa protein 1) (HSP70-1) (HSP70.1),HSPA1A HSP72 HSPA1 HSX70,Homo sapiens (Human),641
+SLC25A23,Q9BV35,reviewed,SCMC3_HUMAN,Calcium-binding mitochondrial carrier protein SCaMC-3 (Mitochondrial ATP-Mg/Pi carrier protein 2) (Mitochondrial Ca(2+)-dependent solute carrier protein 2) (Small calcium-binding mitochondrial carrier protein 3) (Solute carrier family 25 member 23),SLC25A23 APC2 MCSC2 SCAMC3,Homo sapiens (Human),468
+PCP2,Q8IVA1,reviewed,PCP2_HUMAN,Purkinje cell protein 2 homolog,PCP2,Homo sapiens (Human),136
+PPP1CC,P36873,reviewed,PP1G_HUMAN,Serine/threonine-protein phosphatase PP1-gamma catalytic subunit (PP-1G) (EC 3.1.3.16) (Protein phosphatase 1C catalytic subunit),PPP1CC,Homo sapiens (Human),323
+OR14A16,Q8NHC5,reviewed,O14AG_HUMAN,Olfactory receptor 14A16 (Olfactory receptor 5AT1) (Olfactory receptor OR1-45),OR14A16 OR5AT1,Homo sapiens (Human),309
+THSD1,Q9NS62,reviewed,THSD1_HUMAN,Thrombospondin type-1 domain-containing protein 1 (Transmembrane molecule with thrombospondin module),THSD1 TMTSP UNQ3010/PRO9769,Homo sapiens (Human),852
+EPN1,Q9Y6I3,reviewed,EPN1_HUMAN,Epsin-1 (EH domain-binding mitotic phosphoprotein) (EPS-15-interacting protein 1),EPN1,Homo sapiens (Human),576
+SDC2,P34741,reviewed,SDC2_HUMAN,Syndecan-2 (SYND2) (Fibroglycan) (Heparan sulfate proteoglycan core protein) (HSPG) (CD antigen CD362),SDC2 HSPG1,Homo sapiens (Human),201
+ARAP2,Q8WZ64,reviewed,ARAP2_HUMAN,"Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 2 (Centaurin-delta-1) (Cnt-d1) (Protein PARX)",ARAP2 CENTD1 KIAA0580,Homo sapiens (Human),1704
+LCN6,P62502,reviewed,LCN6_HUMAN,Epididymal-specific lipocalin-6 (Lipocalin-5),LCN6 LCN5 UNQ643/PRO1273,Homo sapiens (Human),163
+SLC22A13,Q9Y226,reviewed,S22AD_HUMAN,Solute carrier family 22 member 13 (Organic anion transporter 10) (OAT10) (Organic cation transporter-like 3) (ORCTL-3) (ORCTL3),SLC22A13 OCTL1 ORCTL3,Homo sapiens (Human),551
+EFCAB11,Q9BUY7,reviewed,EFC11_HUMAN,EF-hand calcium-binding domain-containing protein 11,EFCAB11 C14orf143,Homo sapiens (Human),163
+MED13,Q9UHV7,reviewed,MED13_HUMAN,Mediator of RNA polymerase II transcription subunit 13 (Activator-recruited cofactor 250 kDa component) (ARC250) (Mediator complex subunit 13) (Thyroid hormone receptor-associated protein 1) (Thyroid hormone receptor-associated protein complex 240 kDa component) (Trap240) (Vitamin D3 receptor-interacting protein complex component DRIP250) (DRIP250),MED13 ARC250 KIAA0593 THRAP1 TRAP240,Homo sapiens (Human),2174
+PRR5,P85299,reviewed,PRR5_HUMAN,Proline-rich protein 5 (Protein observed with Rictor-1) (Protor-1),PRR5 PROTOR1 PP610,Homo sapiens (Human),388
+SUMF1,Q8NBK3,reviewed,SUMF1_HUMAN,Formylglycine-generating enzyme (FGE) (EC 1.8.3.7) (C-alpha-formylglycine-generating enzyme 1) (Sulfatase-modifying factor 1),SUMF1 PSEC0152 UNQ3037/PRO9852,Homo sapiens (Human),374
+AQP8,O94778,reviewed,AQP8_HUMAN,Aquaporin-8 (AQP-8),AQP8,Homo sapiens (Human),261
+MAT2A,P31153,reviewed,METK2_HUMAN,S-adenosylmethionine synthase isoform type-2 (AdoMet synthase 2) (EC 2.5.1.6) (Methionine adenosyltransferase 2) (MAT 2) (Methionine adenosyltransferase II) (MAT-II),MAT2A AMS2 MATA2,Homo sapiens (Human),395
+ZBTB33,Q86T24,reviewed,KAISO_HUMAN,Transcriptional regulator Kaiso (Zinc finger and BTB domain-containing protein 33),ZBTB33 KAISO ZNF348,Homo sapiens (Human),672
+MYH3,P11055,reviewed,MYH3_HUMAN,"Myosin-3 (Muscle embryonic myosin heavy chain) (Myosin heavy chain 3) (Myosin heavy chain, fast skeletal muscle, embryonic) (SMHCE)",MYH3,Homo sapiens (Human),1940
+EFCAB7,A8K855,reviewed,EFCB7_HUMAN,EF-hand calcium-binding domain-containing protein 7,EFCAB7 KIAA1799,Homo sapiens (Human),629
+WDR75,Q8IWA0,reviewed,WDR75_HUMAN,WD repeat-containing protein 75 (U3 small nucleolar RNA-associated protein 17 homolog),WDR75 UTP17,Homo sapiens (Human),830
+FARP1,Q9Y4F1,reviewed,FARP1_HUMAN,"FERM, ARHGEF and pleckstrin domain-containing protein 1 (Chondrocyte-derived ezrin-like protein) (FERM, RhoGEF and pleckstrin domain-containing protein 1) (Pleckstrin homology domain-containing family C member 2) (PH domain-containing family C member 2)",FARP1 CDEP PLEKHC2,Homo sapiens (Human),1045
+DNAJC8,O75937,reviewed,DNJC8_HUMAN,DnaJ homolog subfamily C member 8 (Splicing protein spf31),DNAJC8 SPF31 HSPC315 HSPC331,Homo sapiens (Human),253
+CEACAM16,Q2WEN9,reviewed,CEA16_HUMAN,Carcinoembryonic antigen-related cell adhesion molecule 16 (Carcinoembryonic antigen-like 2),CEACAM16 CEAL2,Homo sapiens (Human),425
+OLA1,Q9NTK5,reviewed,OLA1_HUMAN,Obg-like ATPase 1 (DNA damage-regulated overexpressed in cancer 45) (DOC45) (GTP-binding protein 9),OLA1 GTPBP9 PRO2455 PTD004,Homo sapiens (Human),396
+CCDC142,Q17RM4,reviewed,CC142_HUMAN,Coiled-coil domain-containing protein 142,CCDC142 PSEC0243,Homo sapiens (Human),750
+RNF212,Q495C1,reviewed,RN212_HUMAN,Probable E3 SUMO-protein ligase RNF212 (EC 2.3.2.-) (Probable E3 SUMO-protein transferase RNF212) (RING finger protein 212),RNF212,Homo sapiens (Human),297
+MIER2,Q8N344,reviewed,MIER2_HUMAN,Mesoderm induction early response protein 2 (Mi-er2),MIER2 KIAA1193,Homo sapiens (Human),545
+LRATD2,Q96KN1,reviewed,LRAT2_HUMAN,Protein LRATD2 (Breast cancer membrane protein 101) (LRAT domain-containing 2) (Protein FAM84B) (Protein NSE2),LRATD2 BCMP101 FAM84B NSE2,Homo sapiens (Human),310
+MAP3K4,Q9Y6R4,reviewed,M3K4_HUMAN,Mitogen-activated protein kinase kinase kinase 4 (EC 2.7.11.25) (MAP three kinase 1) (MAPK/ERK kinase kinase 4) (MEK kinase 4) (MEKK 4),MAP3K4 KIAA0213 MAPKKK4 MEKK4 MTK1,Homo sapiens (Human),1608
+NPIPA1,Q9UND3,reviewed,NPIA1_HUMAN,Nuclear pore complex-interacting protein family member A1 (Nuclear pore complex-interacting protein) (NPIP),NPIPA1 NPIP,Homo sapiens (Human),350
+BFSP2,Q13515,reviewed,BFSP2_HUMAN,Phakinin (49 kDa cytoskeletal protein) (Beaded filament structural protein 2) (Lens fiber cell beaded filament protein CP 47) (CP47) (Lens fiber cell beaded filament protein CP 49) (CP49) (Lens intermediate filament-like light) (LIFL-L),BFSP2,Homo sapiens (Human),415
+ERI1,Q8IV48,reviewed,ERI1_HUMAN,3'-5' exoribonuclease 1 (EC 3.1.-.-) (3'-5' exonuclease ERI1) (Eri-1 homolog) (Histone mRNA 3'-end-specific exoribonuclease) (Histone mRNA 3'-exonuclease 1) (Protein 3'hExo) (HEXO),ERI1 3'EXO THEX1,Homo sapiens (Human),349
+STXBP6,Q8NFX7,reviewed,STXB6_HUMAN,Syntaxin-binding protein 6 (Amisyn),STXBP6 HSPC156,Homo sapiens (Human),210
+CHADL,Q6NUI6,reviewed,CHADL_HUMAN,Chondroadherin-like protein,CHADL SLRR4B,Homo sapiens (Human),762
+NSUN7,Q8NE18,reviewed,NSUN7_HUMAN,Putative methyltransferase NSUN7 (EC 2.1.1.-) (NOL1/NOP2/Sun domain family member 7),NSUN7,Homo sapiens (Human),718
+MMUT,P22033,reviewed,MUTA_HUMAN,"Methylmalonyl-CoA mutase, mitochondrial (MCM) (EC 5.4.99.2) (Methylmalonyl-CoA isomerase)",MMUT MUT,Homo sapiens (Human),750
+VPS51,Q9UID3,reviewed,VPS51_HUMAN,Vacuolar protein sorting-associated protein 51 homolog (Another new gene 2 protein) (Protein fat-free homolog),VPS51 ANG2 C11orf2 C11orf3 FFR PP5382,Homo sapiens (Human),782
+TRAV41,A0A0B4J266,reviewed,TVA41_HUMAN,T cell receptor alpha variable 41,TRAV41,Homo sapiens (Human),112
+INAFM1,C9JVW0,reviewed,INAM1_HUMAN,Putative transmembrane protein INAFM1 (InaF-motif-containing protein 1) (Proline-rich protein 24),INAFM1 PRR24,Homo sapiens (Human),142
+KLHL18,O94889,reviewed,KLH18_HUMAN,Kelch-like protein 18,KLHL18 KIAA0795 OK/SW-cl.74,Homo sapiens (Human),574
+TMEM14C,Q9P0S9,reviewed,TM14C_HUMAN,Transmembrane protein 14C,TMEM14C C6orf53 HSPC194,Homo sapiens (Human),112
+MORF4L2,Q15014,reviewed,MO4L2_HUMAN,Mortality factor 4-like protein 2 (MORF-related gene X protein) (Protein MSL3-2) (Transcription factor-like protein MRGX),MORF4L2 KIAA0026 MRGX,Homo sapiens (Human),288

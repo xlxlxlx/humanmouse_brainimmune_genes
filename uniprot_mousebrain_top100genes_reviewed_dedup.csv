@@ -1,0 +1,100 @@
+From,Entry,Reviewed,Entry Name,Protein names,Gene Names,Organism,Length
+PRL,P06879,reviewed,PRL_MOUSE,Prolactin (PRL),Prl,Mus musculus (Mouse),226
+MT-CO3,P00416,reviewed,COX3_MOUSE,Cytochrome c oxidase subunit 3 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide III),mt-Co3 COIII Mtco3,Mus musculus (Mouse),261
+MT-ATP6,P00848,reviewed,ATP6_MOUSE,ATP synthase subunit a (F-ATPase protein 6),Mtatp6 Atp6 Atpase6 mt-Atp6,Mus musculus (Mouse),226
+MT-CO2,P00405,reviewed,COX2_MOUSE,Cytochrome c oxidase subunit 2 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide II),Mtco2 COII COX2 mt-Co2,Mus musculus (Mouse),227
+MT-CO1,P00397,reviewed,COX1_MOUSE,Cytochrome c oxidase subunit 1 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide I),Mtco1 COI mt-Co1,Mus musculus (Mouse),514
+POMC,P01193,reviewed,COLI_MOUSE,Pro-opiomelanocortin (POMC) (Corticotropin-lipotropin) [Cleaved into: NPP; Melanotropin gamma (Gamma-MSH); Corticotropin (Adrenocorticotropic hormone) (ACTH); Melanocyte-stimulating hormone alpha (Alpha-MSH) (Melanotropin alpha); Corticotropin-like intermediary peptide (CLIP); Lipotropin beta (Beta-LPH); Lipotropin gamma (Gamma-LPH); Melanocyte-stimulating hormone beta (Beta-MSH) (Melanotropin beta); Beta-endorphin; Met-enkephalin],Pomc Pomc1,Mus musculus (Mouse),235
+MT-ATP8,P03930,reviewed,ATP8_MOUSE,ATP synthase protein 8 (A6L) (F-ATPase subunit 8),Mtatp8 Atp8 mt-Atp8,Mus musculus (Mouse),67
+RHO,P15409,reviewed,OPSD_MOUSE,Rhodopsin,Rho,Mus musculus (Mouse),348
+MT-ND1,P03888,reviewed,NU1M_MOUSE,NADH-ubiquinone oxidoreductase chain 1 (EC 7.1.1.2) (NADH dehydrogenase subunit 1),Mtnd1 mt-Nd1 Nd1,Mus musculus (Mouse),318
+MT-CYB,P00158,reviewed,CYB_MOUSE,Cytochrome b (Complex III subunit 3) (Complex III subunit III) (Cytochrome b-c1 complex subunit 3) (Ubiquinol-cytochrome-c reductase complex cytochrome b subunit),Mt-Cyb Cob Cytb mt-Cytb Mtcyb,Mus musculus (Mouse),381
+CGA,P01216,reviewed,GLHA_MOUSE,Glycoprotein hormones alpha chain (Anterior pituitary glycoprotein hormones common subunit alpha) (Follicle-stimulating hormone alpha chain) (FSH-alpha) (Follitropin alpha chain) (Luteinizing hormone alpha chain) (LSH-alpha) (Lutropin alpha chain) (Thyroid-stimulating hormone alpha chain) (TSH-alpha) (Thyrotropin alpha chain),Cga,Mus musculus (Mouse),120
+MT-ND4L,P03903,reviewed,NU4LM_MOUSE,NADH-ubiquinone oxidoreductase chain 4L (EC 7.1.1.2) (NADH dehydrogenase subunit 4L),Mtnd4l mt-Nd4l Nd4l,Mus musculus (Mouse),98
+MBP,P04370,reviewed,MBP_MOUSE,Myelin basic protein (MBP) (Myelin A1 protein),Mbp Shi,Mus musculus (Mouse),250
+MT-ND3,P03899,reviewed,NU3M_MOUSE,NADH-ubiquinone oxidoreductase chain 3 (EC 7.1.1.2) (NADH dehydrogenase subunit 3),mt-Nd3 Nd3,Mus musculus (Mouse),115
+MT-ND4,P03911,reviewed,NU4M_MOUSE,NADH-ubiquinone oxidoreductase chain 4 (EC 7.1.1.2) (NADH dehydrogenase subunit 4),Mtnd4 mt-Nd4 Nd4,Mus musculus (Mouse),459
+CRYBA1,P02525,reviewed,CRBA1_MOUSE,Beta-crystallin A1 (Beta-A1-crystallin),Cryba1,Mus musculus (Mouse),198
+GNAT1,P20612,reviewed,GNAT1_MOUSE,Guanine nucleotide-binding protein G(t) subunit alpha-1 (Transducin alpha-1 chain),Gnat1 Gnat-1,Mus musculus (Mouse),350
+CRYGB,P04344,reviewed,CRGB_MOUSE,Gamma-crystallin B (Gamma-B-crystallin) (Gamma-crystallin 3),Crygb,Mus musculus (Mouse),175
+MT-ND2,P03893,reviewed,NU2M_MOUSE,NADH-ubiquinone oxidoreductase chain 2 (EC 7.1.1.2) (NADH dehydrogenase subunit 2),mt-Nd2 Nd2,Mus musculus (Mouse),345
+CRYAA,P24622,reviewed,CRYAA_MOUSE,Alpha-crystallin A chain,Cryaa Crya1,Mus musculus (Mouse),196
+PLP1,P60202,reviewed,MYPR_MOUSE,Myelin proteolipid protein (PLP) (Lipophilin),Plp1 Plp,Mus musculus (Mouse),277
+FTH1,P09528,reviewed,FRIH_MOUSE,"Ferritin heavy chain (Ferritin H subunit) (EC 1.16.3.1) [Cleaved into: Ferritin heavy chain, N-terminally processed]",Fth1 Fth,Mus musculus (Mouse),182
+CRYGC,Q61597,reviewed,CRGC_MOUSE,Gamma-crystallin C (Gamma-C-crystallin),Crygc Gammab-cry,Mus musculus (Mouse),174
+CRYGS,O35486,reviewed,CRYGS_MOUSE,Gamma-crystallin S (Beta-crystallin S) (Gamma-S-crystallin),Crygs,Mus musculus (Mouse),178
+PDC,Q9QW08,reviewed,PHOS_MOUSE,Phosducin (PHD) (33 kDa phototransducing protein) (Rod photoreceptor 1) (RPR-1),Pdc Rpr1,Mus musculus (Mouse),244
+GNAS,P63094,reviewed,GNAS2_MOUSE,Guanine nucleotide-binding protein G(s) subunit alpha isoforms short (Adenylate cyclase-stimulating G alpha protein),Gnas Gnas1 MNCb-5546,Mus musculus (Mouse),394
+GAPDH,P16858,reviewed,G3P_MOUSE,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH) (EC 2.6.99.-),Gapdh Gapd,Mus musculus (Mouse),333
+MT-ND5,P03921,reviewed,NU5M_MOUSE,NADH-ubiquinone oxidoreductase chain 5 (EC 7.1.1.2) (NADH dehydrogenase subunit 5),Mtnd5 mt-Nd5 Nd5,Mus musculus (Mouse),607
+SAG,P20443,reviewed,ARRS_MOUSE,S-arrestin (48 kDa protein) (Retinal S-antigen) (S-AG) (Rod photoreceptor arrestin),Sag,Mus musculus (Mouse),403
+PDE6G,P09174,reviewed,CNRG_MOUSE,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma (GMP-PDE gamma) (EC 3.1.4.35)",Pde6g Pdeg,Mus musculus (Mouse),87
+CRYAB,P23927,reviewed,CRYAB_MOUSE,Alpha-crystallin B chain (Alpha(B)-crystallin) (P23),Cryab Crya2,Mus musculus (Mouse),175
+GNB1,P62874,reviewed,GBB1_MOUSE,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1 (Transducin beta chain 1),Gnb1,Mus musculus (Mouse),340
+TTR,P07309,reviewed,TTHY_MOUSE,Transthyretin (Prealbumin),Ttr,Mus musculus (Mouse),147
+RPLP1,P47955,reviewed,RLA1_MOUSE,Large ribosomal subunit protein P1 (60S acidic ribosomal protein P1),Rplp1,Mus musculus (Mouse),114
+CRYBB2,P62696,reviewed,CRBB2_MOUSE,Beta-crystallin B2 (Beta-B2 crystallin) (Beta-crystallin Bp),Crybb2,Mus musculus (Mouse),205
+PTGDS,O09114,reviewed,PTGDS_MOUSE,Prostaglandin-H2 D-isomerase (EC 5.3.99.2) (Glutathione-independent PGD synthase) (Lipocalin-type prostaglandin-D synthase) (Prostaglandin-D2 synthase) (L-PGDS) (PGD2 synthase) (PGDS2),Ptgds,Mus musculus (Mouse),189
+PRPH2,P15499,reviewed,PRPH2_MOUSE,Peripherin-2 (Retinal degeneration slow protein),Prph2 Rds,Mus musculus (Mouse),346
+CST3,P21460,reviewed,CYTC_MOUSE,Cystatin-C (Cystatin-3),Cst3,Mus musculus (Mouse),140
+RPS14,P62264,reviewed,RS14_MOUSE,Small ribosomal subunit protein uS11 (40S ribosomal protein S14),Rps14,Mus musculus (Mouse),151
+RPL26,P61255,reviewed,RL26_MOUSE,Large ribosomal subunit protein uL24 (60S ribosomal protein L26) (Silica-induced gene 20 protein) (SIG-20),Rpl26,Mus musculus (Mouse),145
+RPS21,Q9CQR2,reviewed,RS21_MOUSE,Small ribosomal subunit protein eS21 (40S ribosomal protein S21),Rps21,Mus musculus (Mouse),83
+RPS29,P62274,reviewed,RS29_MOUSE,Small ribosomal subunit protein uS14 (40S ribosomal protein S29),Rps29,Mus musculus (Mouse),56
+TUBA1A,P68369,reviewed,TBA1A_MOUSE,Tubulin alpha-1A chain (EC 3.6.5.-) (Alpha-tubulin 1) (Alpha-tubulin isotype M-alpha-1) (Tubulin alpha-1 chain) [Cleaved into: Detyrosinated tubulin alpha-1A chain],Tuba1a Tuba1,Mus musculus (Mouse),451
+ALDOA,P05064,reviewed,ALDOA_MOUSE,Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Aldolase 1) (Muscle-type aldolase),Aldoa Aldo1,Mus musculus (Mouse),364
+RPS15,P62843,reviewed,RS15_MOUSE,Small ribosomal subunit protein uS19 (40S ribosomal protein S15) (RIG protein),Rps15 Rig,Mus musculus (Mouse),145
+UBB,P0CG49,reviewed,UBB_MOUSE,Polyubiquitin-B [Cleaved into: Ubiquitin],Ubb,Mus musculus (Mouse),305
+CALM2,P0DP27,reviewed,CALM2_MOUSE,Calmodulin-2,Calm2 Cam2 CamC,Mus musculus (Mouse),149
+RPS3A,P97351,reviewed,RS3A_MOUSE,Small ribosomal subunit protein eS1 (40S ribosomal protein S3a) (Protein TU-11),Rps3a Rps3a1,Mus musculus (Mouse),264
+ENO1,P17182,reviewed,ENOA_MOUSE,Alpha-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 1) (Non-neural enolase) (NNE),Eno1 Eno-1,Mus musculus (Mouse),434
+PKM,P52480,reviewed,KPYM_MOUSE,Pyruvate kinase PKM (EC 2.7.1.40) (Pyruvate kinase muscle isozyme) (Threonine-protein kinase PKM2) (EC 2.7.11.1) (Tyrosine-protein kinase PKM2) (EC 2.7.10.2),Pkm Pk3 Pkm2 Pykm,Mus musculus (Mouse),531
+PENK,P22005,reviewed,PENK_MOUSE,Proenkephalin-A [Cleaved into: Synenkephalin; Met-enkephalin (Opioid growth factor) (OGF); PENK(114-133); PENK(143-184); Met-enkephalin-Arg-Ser-Leu; Leu-enkephalin; PENK(238-259); Met-enkephalin-Arg-Phe],Penk Penk1,Mus musculus (Mouse),268
+CPE,Q00493,reviewed,CBPE_MOUSE,Carboxypeptidase E (CPE) (EC 3.4.17.10) (Carboxypeptidase H) (CPH) (Enkephalin convertase) (Prohormone-processing carboxypeptidase),Cpe,Mus musculus (Mouse),476
+RPL13A,P19253,reviewed,RL13A_MOUSE,Large ribosomal subunit protein uL13 (60S ribosomal protein L13a) (Transplantation antigen P198) (Tum-P198 antigen),Rpl13a P198 Tstap198-7,Mus musculus (Mouse),203
+RPS17,P63276,reviewed,RS17_MOUSE,Small ribosomal subunit protein eS17 (40S ribosomal protein S17),Rps17,Mus musculus (Mouse),135
+UNC119,Q9Z2R6,reviewed,U119A_MOUSE,Protein unc-119 homolog A (Retinal protein 4) (mRG4),Unc119 Unc119h,Mus musculus (Mouse),240
+SCG2,Q03517,reviewed,SCG2_MOUSE,Secretogranin-2 (Chromogranin-C) (Secretogranin II) (SgII) [Cleaved into: Secretoneurin (SN); Manserin],Scg2 Chgc Scg-2,Mus musculus (Mouse),617
+CHGB,P16014,reviewed,SCG1_MOUSE,Secretogranin-1 (Chromogranin-B) (CgB) (Secretogranin I) (SgI) [Cleaved into: CCB peptide; PE-11],Chgb Scg-1 Scg1,Mus musculus (Mouse),677
+UBC,P0CG50,reviewed,UBC_MOUSE,Polyubiquitin-C [Cleaved into: Ubiquitin; Ubiquitin-related 1; Ubiquitin-related 2],Ubc,Mus musculus (Mouse),734
+ROM1,P32958,reviewed,ROM1_MOUSE,Rod outer segment membrane protein 1 (ROSP1),Rom1 Rom-1,Mus musculus (Mouse),351
+SNAP25,P60879,reviewed,SNP25_MOUSE,Synaptosomal-associated protein 25 (SNAP-25) (Super protein) (SUP) (Synaptosomal-associated 25 kDa protein),Snap25 Snap,Mus musculus (Mouse),206
+RPS6,P62754,reviewed,RS6_MOUSE,Small ribosomal subunit protein eS6 (40S ribosomal protein S6) (Phosphoprotein NP33),Rps6,Mus musculus (Mouse),249
+COX4I1,P19783,reviewed,COX41_MOUSE,"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial (Cytochrome c oxidase polypeptide IV) (Cytochrome c oxidase subunit IV isoform 1) (COX IV-1)",Cox4i1 Cox4 Cox4a,Mus musculus (Mouse),169
+RPL23A,P62751,reviewed,RL23A_MOUSE,Large ribosomal subunit protein uL23 (60S ribosomal protein L23a),Rpl23a,Mus musculus (Mouse),156
+RPS9,Q6ZWN5,reviewed,RS9_MOUSE,Small ribosomal subunit protein uS4 (40S ribosomal protein S9),Rps9,Mus musculus (Mouse),194
+ALDOC,P05063,reviewed,ALDOC_MOUSE,Fructose-bisphosphate aldolase C (EC 4.1.2.13) (Aldolase 3) (Brain-type aldolase) (Scrapie-responsive protein 2) (Zebrin II),Aldoc Aldo3 Scrg2,Mus musculus (Mouse),363
+MAG,P20917,reviewed,MAG_MOUSE,Myelin-associated glycoprotein (Siglec-4a),Mag,Mus musculus (Mouse),627
+RCVRN,P34057,reviewed,RECO_MOUSE,Recoverin (23 kDa photoreceptor cell-specific protein) (Cancer-associated retinopathy protein) (Protein CAR),Rcvrn Rcv1,Mus musculus (Mouse),202
+RPL34,Q9D1R9,reviewed,RL34_MOUSE,Large ribosomal subunit protein eL34 (60S ribosomal protein L34),Rpl34,Mus musculus (Mouse),117
+RPS12,P63323,reviewed,RS12_MOUSE,Small ribosomal subunit protein eS12 (40S ribosomal protein S12),Rps12,Mus musculus (Mouse),132
+SPARCL1,P70663,reviewed,SPRL1_MOUSE,SPARC-like protein 1 (Extracellular matrix protein 2) (Matrix glycoprotein Sc1),Sparcl1 Ecm2 Sc1,Mus musculus (Mouse),650
+RPL38,Q9JJI8,reviewed,RL38_MOUSE,Large ribosomal subunit protein eL38 (60S ribosomal protein L38),Rpl38,Mus musculus (Mouse),70
+ATP5MK,Q78IK2,reviewed,ATPMK_MOUSE,"ATP synthase membrane subunit K, mitochondrial (ATP synthase membrane subunit DAPIT, mitochondrial) (Diabetes-associated protein in insulin-sensitive tissues) (Up-regulated during skeletal muscle growth protein 5)",Atp5mk Atp5md Dapit Usmg5,Mus musculus (Mouse),58
+RPS4X,P62702,reviewed,RS4X_MOUSE,"Small ribosomal subunit protein eS4 (40S ribosomal protein S4, X isoform)",Rps4x Rps4,Mus musculus (Mouse),263
+GLUL,P15105,reviewed,GLNA_MOUSE,Glutamine synthetase (GS) (EC 6.3.1.2) (Glutamate--ammonia ligase) (Palmitoyltransferase GLUL) (EC 2.3.1.225),Glul Glns,Mus musculus (Mouse),373
+GUCA1A,P43081,reviewed,GUC1A_MOUSE,Guanylyl cyclase-activating protein 1 (GCAP 1) (Guanylate cyclase activator 1A),Guca1a Gcap Gcap1 Guca1,Mus musculus (Mouse),202
+RPS25,P62852,reviewed,RS25_MOUSE,Small ribosomal subunit protein eS25 (40S ribosomal protein S25),Rps25,Mus musculus (Mouse),125
+RPL19,P84099,reviewed,RL19_MOUSE,Large ribosomal subunit protein eL19 (60S ribosomal protein L19),Rpl19,Mus musculus (Mouse),196
+RPL32,P62911,reviewed,RL32_MOUSE,Large ribosomal subunit protein eL32 (60S ribosomal protein L32),Rpl32,Mus musculus (Mouse),135
+SELENOW,P63300,reviewed,SELW_MOUSE,Selenoprotein W (SelW),Selenow Selw Sepw1,Mus musculus (Mouse),88
+RBP3,P49194,reviewed,RET3_MOUSE,Retinol-binding protein 3 (Interphotoreceptor retinoid-binding protein) (IRBP) (Interstitial retinol-binding protein),Rbp3,Mus musculus (Mouse),1234
+CRYBA2,Q9JJV1,reviewed,CRBA2_MOUSE,Beta-crystallin A2 (Beta-A2 crystallin),Cryba2,Mus musculus (Mouse),197
+RPS10,P63325,reviewed,RS10_MOUSE,Small ribosomal subunit protein eS10 (40S ribosomal protein S10),Rps10,Mus musculus (Mouse),165
+GNGT1,Q61012,reviewed,GBG1_MOUSE,Guanine nucleotide-binding protein G(T) subunit gamma-T1 (Transducin gamma chain),Gngt1 Gng1,Mus musculus (Mouse),74
+CRYBA4,Q9JJV0,reviewed,CRBA4_MOUSE,Beta-crystallin A4 (Beta-A4 crystallin),Cryba4,Mus musculus (Mouse),196
+NRL,P54846,reviewed,NRL_MOUSE,Neural retina-specific leucine zipper protein (NRL),Nrl,Mus musculus (Mouse),237
+APLP1,Q03157,reviewed,APLP1_MOUSE,Amyloid beta precursor like protein 1 (Amyloid beta (A4) precursor-like protein 1) (Amyloid-like protein 1) (APLP) (APLP-1) [Cleaved into: C30],Aplp1,Mus musculus (Mouse),654
+HPCA,P84075,reviewed,HPCA_MOUSE,Neuron-specific calcium-binding protein hippocalcin,Hpca,Mus musculus (Mouse),193
+LDHA,P06151,reviewed,LDHA_MOUSE,L-lactate dehydrogenase A chain (LDH-A) (EC 1.1.1.27) (LDH muscle subunit) (LDH-M),Ldha Ldh-1 Ldh1,Mus musculus (Mouse),332
+DBI,P31786,reviewed,ACBP_MOUSE,Acyl-CoA-binding protein (ACBP) (Diazepam-binding inhibitor) (DBI) (Endozepine) (EP),Dbi,Mus musculus (Mouse),87
+RESP18,P47939,reviewed,RES18_MOUSE,Regulated endocrine-specific protein 18,Resp18,Mus musculus (Mouse),175
+MGARP,Q8VI64,reviewed,HUMMR_MOUSE,Protein MGARP (Corneal endothelium-specific protein 1) (CESP-1) (Hypoxia up-regulated mitochondrial movement regulator protein) (Mitochondria-localized glutamic acid-rich protein) (Ovary-specific acidic protein),Mgarp Cesp1 Hummr Osap,Mus musculus (Mouse),283
+MAL,O09198,reviewed,MAL_MOUSE,Myelin and lymphocyte protein (T-lymphocyte maturation-associated protein),Mal,Mus musculus (Mouse),153
+PLEKHB1,Q9QYE9,reviewed,PKHB1_MOUSE,Pleckstrin homology domain-containing family B member 1 (PH domain-containing family B member 1) (Evectin-1) (PH domain-containing protein in retina 1) (PHRET1) (Pleckstrin homology domain retinal protein 1),Plekhb1 Evt1 Phr1,Mus musculus (Mouse),243
+PCP2,B1AUH1,reviewed,PTPRU_MOUSE,Receptor-type tyrosine-protein phosphatase U (R-PTP-U) (EC 3.1.3.48) (Ftp-1) (Pancreatic carcinoma phosphatase 2) (PCP-2) (Protein-tyrosine phosphatase-lamda) (PTP-lambda) (PTPlambda) (Receptor-type protein-tyrosine phosphatase psi) (R-PTP-psi),Ptpru Pcp2 Ptpf,Mus musculus (Mouse),1446
+SPARC,P07214,reviewed,SPRC_MOUSE,SPARC (Basement-membrane protein 40) (BM-40) (Osteonectin) (ON) (Secreted protein acidic and rich in cysteine),Sparc,Mus musculus (Mouse),302
+PVALB,P32848,reviewed,PRVA_MOUSE,Parvalbumin alpha,Pvalb Pva,Mus musculus (Mouse),110
+RPL37A,P61514,reviewed,RL37A_MOUSE,Large ribosomal subunit protein eL43 (60S ribosomal protein L37a),Rpl37a,Mus musculus (Mouse),92
+RPL3,P27659,reviewed,RL3_MOUSE,Large ribosomal subunit protein uL3 (60S ribosomal protein L3) (J1 protein),Rpl3,Mus musculus (Mouse),403
+CLDN11,Q60771,reviewed,CLD11_MOUSE,Claudin-11 (Oligodendrocyte transmembrane protein) (Oligodendrocyte-specific protein),Cldn11 Osp Otm,Mus musculus (Mouse),207
