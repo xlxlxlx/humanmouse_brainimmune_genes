@@ -1,6 +1,6 @@
-# Insights into the Origin, Preservation, and Absence of Human Brain and Immune-related Genes in Non-human Species
+# Comparative Genomics of Human Brain and Immune Gene Conservation Across Species
 
-This is a repository storing data and scripts used in our manuscript titled "Insights into the Origin, Preservation, and Absence of Human Brain and Immune-related Genes in Non-human Species".
+This is a repository storing data and scripts used in our manuscript titled "Comparative Genomics of Human Brain and Immune Gene Conservation Across Species".
 
 ## Data files
 - genome_accession.xlsx    
