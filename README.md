@@ -7,13 +7,16 @@ This is a repository storing data and scripts used in our manuscript titled "Com
 The genome accession numbers for the 32 primate genomes and 4 non-primate species used in this study, obtained form Ensembl [^2] and NCBI [^3].
 
 - uniprot_normal_tissue_ABCtotal_reviewed_dedup  
-The 1389 brain or immune system highly expressed genes analyzed in the paper, with at least one "reviewed" protein and deduped by keeping the first valid entry in UniProt mapping results [^1]. 
+The 1403 brain or immune system highly expressed genes analyzed in the paper, with at least one "reviewed" protein and deduped by keeping the first valid entry in UniProt mapping results [^1]. 
 
 - uniprot_random304_reviewed_dedup.csv   
 A random set of 304 human genes and their corresponding proteins used in this study.
 
 - uniprot_mousebrain_top100genes_reviewed_dedup.csv   
-The mouse genes with top 100 nTPM values and their corresponding proteins used in this study.   
+The mouse genes with top 100 nTPM values and their corresponding proteins used in this study.
+
+- uniprot_hgnc_humanFamily_topLevel_reviewed.csv
+The 382 typical human genes of HGNC [^4] top level gene family and their corresponding proteins used in this study.   
 
 - Homo_sapiens_GRCh38_cds_list.csv   
 The full human gene list extracted from human CDS sequence obtained from Ensembl [^3]. Note there are duplicated gene names.
@@ -97,5 +100,6 @@ A simple script to caculate and print statistical metrics for a given number lis
 [^1]: "UniProt: the universal protein knowledgebase in 2023." Nucleic Acids Research 51, no. D1 (2023): D523-D531.
 [^2]: Cunningham, Fiona, et al. "Ensembl 2022." Nucleic acids research 50.D1 (2022): D988-D995.
 [^3]: Sayers, Eric W., et al. "Database resources of the national center for biotechnology information." Nucleic acids research 50.D1 (2022): D20.
+[^4]: Seal, Ruth L., et al. "Genenames. org: the HGNC resources in 2023." Nucleic acids research 51.D1 (2023): D1003-D1009.
 
 
