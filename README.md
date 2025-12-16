@@ -24,6 +24,9 @@ The full human gene list extracted from human CDS sequence obtained from Ensembl
 - fasta2genelist.py    
 The script used to extract the full human gene list from human CDS sequence file.
 
+- human_protein_atlas_tissues_23.0.txt
+A complete list of tissues on Human Protein Atlas version 23.0 [^5][^6]   
+
 
 ## Scripts
 The scripts are labeled according to their order of execution. If two scripts share the same preceeding number, this indicates that there is no strict sequence for executing them.
@@ -101,5 +104,5 @@ A simple script to caculate and print statistical metrics for a given number lis
 [^2]: Cunningham, Fiona, et al. "Ensembl 2022." Nucleic acids research 50.D1 (2022): D988-D995.
 [^3]: Sayers, Eric W., et al. "Database resources of the national center for biotechnology information." Nucleic acids research 50.D1 (2022): D20.
 [^4]: Seal, Ruth L., et al. "Genenames. org: the HGNC resources in 2023." Nucleic acids research 51.D1 (2023): D1003-D1009.
-
-
+[^5]: Uhlén, Mathias, et al. "Tissue-based map of the human proteome." Science 347.6220 (2015): 1260419.
+[^6]: Human Protein Atlas: [proteinatlas.org](https://www.proteinatlas.org/)
