@@ -24,7 +24,7 @@ The full human gene list extracted from human CDS sequence obtained from Ensembl
 - fasta2genelist.py    
 The script used to extract the full human gene list from human CDS sequence file.
 
-- human_protein_atlas_tissues_23.0.txt
+- human_protein_atlas_tissues_23.0.txt    
 A complete list of tissues on Human Protein Atlas version 23.0 [^5][^6]   
 
 
