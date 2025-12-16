@@ -92,7 +92,7 @@ Count number of tissues each gene is highly expressed in, given CSV files.
 - 2_df_list_count.py   
 Count number of tissues each gene is highly expressed in, given CSV files containing genes absent from primate clades.   
 
-- 2_basic_mean_mode
+- 2_basic_mean_mode   
 A simple script to caculate and print statistical metrics for a given number list.   
 
 
