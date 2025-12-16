@@ -15,7 +15,7 @@ A random set of 304 human genes and their corresponding proteins used in this st
 - uniprot_mousebrain_top100genes_reviewed_dedup.csv   
 The mouse genes with top 100 nTPM values and their corresponding proteins used in this study.
 
-- uniprot_hgnc_humanFamily_topLevel_reviewed.csv
+- uniprot_hgnc_humanFamily_topLevel_reviewed.csv   
 The 382 typical human genes of HGNC [^4] top level gene family and their corresponding proteins used in this study.   
 
 - Homo_sapiens_GRCh38_cds_list.csv   
