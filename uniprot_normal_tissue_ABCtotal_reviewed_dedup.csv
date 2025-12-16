@@ -1387,3 +1387,18 @@ ZNF821,O75541,reviewed,ZN821_HUMAN,Zinc finger protein 821,ZNF821,Homo sapiens (
 ZNF830,Q96NB3,reviewed,ZN830_HUMAN,Zinc finger protein 830 (Coiled-coil domain-containing protein 16),ZNF830 CCDC16,Homo sapiens (Human),372
 ZSCAN29,Q8IWY8,reviewed,ZSC29_HUMAN,Zinc finger and SCAN domain-containing protein 29 (Zinc finger protein 690),ZSCAN29 ZNF690,Homo sapiens (Human),852
 ZW10,O43264,reviewed,ZW10_HUMAN,Centromere/kinetochore protein zw10 homolog,ZW10,Homo sapiens (Human),779
+CALCR,P30988,reviewed,CALCR_HUMAN,Calcitonin receptor (CT-R),CALCR,Homo sapiens (Human),474
+AVP,P01185,reviewed,NEU2_HUMAN,Vasopressin-neurophysin 2-copeptin (AVP-NPII) [Cleaved into: Arg-vasopressin (Arginine-vasopressin); Neurophysin 2 (Neurophysin-II); Copeptin],AVP ARVP VP,Homo sapiens (Human),164
+DBH,P09172,reviewed,DOPO_HUMAN,Dopamine beta-hydroxylase (EC 1.14.17.1) (Dopamine beta-monooxygenase) [Cleaved into: Soluble dopamine beta-hydroxylase],DBH,Homo sapiens (Human),617
+VGF,O15240,reviewed,VGF_HUMAN,Neurosecretory protein VGF [Cleaved into: Neuroendocrine regulatory peptide-1 (NERP-1); Neuroendocrine regulatory peptide-2 (NERP-2); VGF-derived peptide TLQP-21; VGF-derived peptide TLQP-62; Antimicrobial peptide VGF[554-577]],VGF,Homo sapiens (Human),615
+TPH2,Q8IWU9,reviewed,TPH2_HUMAN,Tryptophan 5-hydroxylase 2 (EC 1.14.16.4) (Neuronal tryptophan hydroxylase) (Tryptophan 5-monooxygenase 2),TPH2 NTPH,Homo sapiens (Human),490
+HDC,P19113,reviewed,DCHS_HUMAN,Histidine decarboxylase (HDC) (EC 4.1.1.22),HDC,Homo sapiens (Human),662
+ARHGAP36,Q6ZRI8,reviewed,RHG36_HUMAN,Rho GTPase-activating protein 36,ARHGAP36,Homo sapiens (Human),547
+SST,P61278,reviewed,SMS_HUMAN,Somatostatin (Growth hormone release-inhibiting factor) [Cleaved into: Somatostatin-28; Somatostatin-14 (SST-14); Neuronostatin (NST)],SST,Homo sapiens (Human),116
+AGRP,O00253,reviewed,AGRP_HUMAN,Agouti-related protein,AGRP AGRT ART,Homo sapiens (Human),132
+CARTPT,Q16568,reviewed,CART_HUMAN,Cocaine- and amphetamine-regulated transcript protein [Cleaved into: CART(1-39); CART(42-89)],CARTPT CART,Homo sapiens (Human),116
+TRH,P20396,reviewed,TRH_HUMAN,Pro-thyrotropin-releasing hormone (Pro-TRH) (Prothyroliberin) [Cleaved into: Thyrotropin-releasing hormone (TRH) (Protirelin) (TSH-releasing factor) (Thyroliberin) (Thyrotropin-releasing factor) (TRF)],TRH,Homo sapiens (Human),242
+SCG2,O00255,reviewed,MEN1_HUMAN,Menin,MEN1 SCG2,Homo sapiens (Human),610
+PMCH,P20382,reviewed,MCH_HUMAN,Pro-MCH [Cleaved into: Neuropeptide-glycine-glutamic acid (NGE) (Neuropeptide G-E); Neuropeptide-glutamic acid-isoleucine (NEI) (Neuropeptide E-I); Melanin-concentrating hormone (MCH)],PMCH MCH,Homo sapiens (Human),165
+CCK,P06307,reviewed,CCKN_HUMAN,Cholecystokinin (CCK) [Cleaved into: Cholecystokinin-58 (CCK58); Cholecystokinin-58 desnonopeptide ((1-49)-CCK58); Cholecystokinin-39 (CCK39); Cholecystokinin-33 (CCK33); Cholecystokinin-25 (CCK25); Cholecystokinin-18 (CCK18); Cholecystokinin-12 (CCK12); Cholecystokinin-8 (CCK8); Cholecystokinin-7 (CCK7); Cholecystokinin-5 (CCK5)],CCK,Homo sapiens (Human),115
+LUZP2,Q86TE4,reviewed,LUZP2_HUMAN,Leucine zipper protein 2,LUZP2 UNQ2566/PRO6246,Homo sapiens (Human),346
