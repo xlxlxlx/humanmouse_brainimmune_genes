@@ -1,6 +1,6 @@
-# Comparative Genomics of Human Brain and Immune Gene Conservation Across Species
+# Comparative Genomics of Human Brain and Immune Gene Preservation Across Species
 
-This is a repository storing data and scripts used in our manuscript titled "Comparative Genomics of Human Brain and Immune Gene Conservation Across Species".
+This is a repository storing data and scripts used in our manuscript titled "Comparative Genomics of Human Brain and Immune Gene Preservation Across Species".
 
 ## Data files
 - genome_accession.xlsx    
