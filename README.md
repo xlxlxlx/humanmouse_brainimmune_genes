@@ -7,13 +7,10 @@ This is a repository storing data and scripts used in our manuscript titled "Com
 The genome accession numbers for the 32 primate genomes and 4 non-primate species used in this study, obtained form Ensembl [^2] and NCBI [^3].
 
 - uniprot_normal_tissue_ABCtotal_reviewed_dedup  
-The 1403 brain or immune system highly expressed genes analyzed in the paper, with at least one "reviewed" protein and deduped by keeping the first valid entry in UniProt mapping results [^1]. 
+The 1403 brain or immune system highly expressed genes analyzed in the paper, with at least one "reviewed" protein and deduped by keeping the first valid entry in UniProt mapping results [^1].
 
 - uniprot_random304_reviewed_dedup.csv   
 A random set of 304 human genes and their corresponding proteins used in this study.
-
-- uniprot_mousebrain_top100genes_reviewed_dedup.csv   
-The mouse genes with top 100 nTPM values and their corresponding proteins used in this study.
 
 - uniprot_hgnc_humanFamily_topLevel_reviewed.csv   
 The 382 typical human genes of HGNC [^4] top level gene family and their corresponding proteins used in this study.   
@@ -26,6 +23,10 @@ The script used to extract the full human gene list from human CDS sequence file
 
 - human_protein_atlas_tissues_23.0.txt    
 A complete list of tissues on Human Protein Atlas version 23.0 [^5][^6]   
+
+
+- BIC_gene_sets.xlsx   
+The lists of genes contained in B, C, I, B*, C*, and I*.
 
 
 ## Scripts
